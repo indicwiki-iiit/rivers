@@ -1,0 +1,3180 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="te">
+    <siteinfo>
+        <sitename>tewiki</sitename>
+        <dbname>indicwiki</dbname>
+        <base>https://tewiki.iiit.ac.in/index.php/%E0%B0%AE%E0%B1%8A%E0%B0%A6%E0%B0%9F%E0%B0%BF_%E0%B0%AA%E0%B1%87%E0%B0%9C%E0%B1%80</base>
+        <generator>MediaWiki 1.34.0</generator>
+        <case>first-letter</case>
+        <namespaces>
+            <namespace key="-2" case="first-letter">మీడియా</namespace>
+            <namespace key="-1" case="first-letter">ప్రత్యేక</namespace>
+            <namespace key="0" case="first-letter" />
+            <namespace key="1" case="first-letter">చర్చ</namespace>
+            <namespace key="2" case="first-letter">వాడుకరి</namespace>
+            <namespace key="3" case="first-letter">వాడుకరి చర్చ</namespace>
+            <namespace key="4" case="first-letter">Project</namespace>
+            <namespace key="5" case="first-letter">Project చర్చ</namespace>
+            <namespace key="6" case="first-letter">దస్త్రం</namespace>
+            <namespace key="7" case="first-letter">దస్త్రంపై చర్చ</namespace>
+            <namespace key="8" case="first-letter">మీడియావికీ</namespace>
+            <namespace key="9" case="first-letter">మీడియావికీ చర్చ</namespace>
+            <namespace key="10" case="first-letter">మూస</namespace>
+            <namespace key="11" case="first-letter">మూస చర్చ</namespace>
+            <namespace key="12" case="first-letter">సహాయం</namespace>
+            <namespace key="13" case="first-letter">సహాయం చర్చ</namespace>
+            <namespace key="14" case="first-letter">వర్గం</namespace>
+            <namespace key="15" case="first-letter">వర్గం చర్చ</namespace>
+            <namespace key="828" case="first-letter">మాడ్యూల్</namespace>
+            <namespace key="829" case="first-letter">మాడ్యూల్ చర్చ</namespace>
+            <namespace key="2300" case="first-letter">Gadget</namespace>
+            <namespace key="2301" case="first-letter">Gadget talk</namespace>
+            <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+            <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+            <namespace key="2600" case="first-letter">Topic</namespace>
+        </namespaces>
+    </siteinfo>
+
+
+
+
+    <page>
+        <title>అనాడిర్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1770">
+            
+
+
+{{Infobox river
+| name = అనాడిర్
+| image = Пробуждение_после_длительной_зимы_двух_рек_Анадырь_и_Белая.jpg
+| image_size = 300
+|image_caption =అనాడిర్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = సైబీరియా, రష్యన్ ఫెడరేషన్
+| length=1150.0 కి.మీ.
+| discharge1_avg = 2,150 ఘనపు మీటర్/సెకండ్ (76,000 ఘనపు అడుగులు/సెకండ్)
+| source1_location = అనడైర్ హైలాండ్స్
+| mouth= బేరింగ్ సముద్రం
+| mouth_location = అనాడైర్ గల్ఫ్
+| mouth_elevation =0 మీటర్లు (0 అడుగులు) కి.మీ.
+| basin_size = 191,000 చదరపు కిలోమీటర్లు (74,000 చదరపు మైళ్ళు)
+}}
+    
+అనాడిర్ నది [[సైబీరియా, రష్యన్ ఫెడరేషన్]] దేశమునకు చెందినది.ఈ నది పొడవు 1150.0కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Anadyr_(river)|title=Anadyr|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+అనాడిర్ నది 191,000 చదరపు కిలోమీటర్లు (74,000 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;అనాడిర్ నది అక్షాంశం(లాటిట్యూడ్) 67.0501. అనాడిర్ నది రేఖాంశం(లాంగిట్యూడ్) 170.846.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Anadyr_(river)|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+అనాడిర్ నది [[సైబీరియా, రష్యన్ ఫెడరేషన్]]లోని అనడైర్ హైలాండ్స్ దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;అనాడిర్ నది అనాడైర్ గల్ఫ్ దగ్గర [[బేరింగ్ సముద్రం]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;అనాడిర్ నది 0 మీటర్లు (0 అడుగులు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+అనాడిర్ నది లోని నీరు క్షణముకు సగటు 2,150 ఘనపు మీటర్/సెకండ్ (76,000 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>ఆరే</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2537">
+            
+
+
+{{Infobox river
+| name = ఆరే
+| image = Bern_Untertorbrücke_05.jpg
+| image_size = 300
+|image_caption =ఆరే నది
+| map = Russia_Chukotka_Autonomous_Okrug_relief_location_map.png
+| map_size = 300 px
+| map_caption = ఆరే నది పటం
+| subdivision_type1  = దేశం
+| subdivision_name1  = స్విట్జర్లాండ్
+| length=291.5 కి.మీ.
+| discharge1_location= అన్టర్సిగెంథాల్
+| discharge1_min= 351 క్యూబిక్ మీటర్లు (12400 క్యూబిక్ అడుగులు)
+| discharge1_avg = 559 ఘనపు మీటర్/సెకండ్ (19,700 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 735 క్యూబిక్ మీటర్లు (26,000 క్యూబిక్ అడుగులు)
+| source1_location = అన్టెరార్గ్లెట్చెర్, బెర్నీస్ ఒబెర్లాండ్
+| source1_elevation =1,940 మీటర్లు (6,360 అడుగులు) కి.మీ.
+| mouth_elevation =311 మీటర్లు (1,020 అడుగులు) కి.మీ.
+| basin_size = 17,779 చదరపు కిలోమీటర్లు (6,865 చదరపు మైళ్ళు)
+| tributaries_right = గాడ్మెర్వాసర్, జుల్గ్, ఎమ్మే, ముర్గ్, విగ్గర్, సుహ్రే, అబాచ్, రియస్, లిమ్మత్, సర్బ్
+}}
+    
+ఆరే నది [[స్విట్జర్లాండ్]] దేశమునకు చెందినది.ఆరే నది పొడవు 291.5 కిలోమీటర్లు. &lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Aare|title=Aare|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+ఆరే నది 17,779 చదరపు కిలోమీటర్లు (6,865 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఆరే నది అక్షాంశం(లాటిట్యూడ్) 46.5634. ఆరే నది రేఖాంశం(లాంగిట్యూడ్) 8.43259.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Category:Aare|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+ఆరే నది కుడి ఉపనదులు గాడ్మెర్వాసర్, జుల్గ్, ఎమ్మే, ముర్గ్, విగ్గర్, సుహ్రే, అబాచ్, రియస్, లిమ్మత్, సర్బ్.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+ఆరే నది [[స్విట్జర్లాండ్]]లోని అన్టెరార్గ్లెట్చెర్, బెర్నీస్ ఒబెర్లాండ్ దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఆరే నది మూలం ఎత్తు 1,940 మీటర్లు (6,360 అడుగులు).&lt;ref name="wiki_link" /&gt;ఆరే నది 311 మీటర్లు (1,020 అడుగులు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+ఆరే నది సముద్రంలో కలిసే స్థలం అన్టర్సిగెంథాల్.&lt;ref name="dbpedia_link" /&gt;ఆరే నది లోని నీరు క్షణముకు సగటు 559 ఘనపు మీటర్/సెకండ్ (19,700 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా గరిష్ట మోతాదు క్షణముకు 735 క్యూబిక్ మీటర్లు (26,000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 351 క్యూబిక్ మీటర్లు (12400 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>అలబామా</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1321">
+            
+
+
+{{Infobox river
+| name = అలబామా
+| image = Alabama_River.jpg
+| image_size = 300
+|image_caption =అలబామా నది
+| map = Switzerland_relief_location_map.jpg
+| map_size = 300 px
+| map_caption = అలబామా నది పటం
+| subdivision_type1  = దేశం
+| subdivision_name1  = యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా
+| length=511.771 కి.మీ.
+| source1_location = అలబామాలోని మోంట్‌గోమెరీ సమీపంలో తల్లాపూసా మరియు కూసా నదులు
+| mouth_location = మొబైల్ నది
+}}
+    
+అలబామా నది [[యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా]] దేశానికి చెందినది.ఈ నది పొడవు 511.771కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Alabama_River|title=Alabama|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+అలబామా నది అక్షాంశం(లాటిట్యూడ్) 31.1364. అలబామా నది రేఖాంశం(లాంగిట్యూడ్) -87.9442.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Category:Alabama_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+[[యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా]]లోని అలబామాలోని మోంట్‌గోమెరీ సమీపంలో తల్లాపూసా మరియు కూసా నదులు దగ్గర అలబామా నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది మొబైల్ నది దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>అమెజాన్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2234">
+            
+
+
+{{Infobox river
+| name = అమెజాన్
+| image = Rio_Amazonas_-_Parintins.jpg
+| image_size = 300
+|image_caption =అమెజాన్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = పెరూ, కొలంబియా, బ్రెజిల్
+| discharge1_location= నోరు
+| discharge1_min= 75602 క్యూబిక్ మీటర్లు (2669900 క్యూబిక్ అడుగులు)
+| discharge1_avg = 105,720 ఘనపు మీటర్/సెకండ్ (3,733,000 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 306,317 క్యూబిక్ మీటర్లు (10,817,500 క్యూబిక్ అడుగులు)
+| source1 = అపురిమాక్ నది, మిస్మి
+| source1_location = పెరూ
+| source1_elevation =5,220 మీటర్లు (17,130 అడుగులు) కి.మీ.
+| mouth= అట్లాంటిక్ మహాసముద్రం
+| mouth_location = బ్రెజిల్
+| basin_size = 7,000,000 చదరపు కిలోమీటర్లు (2,700,000 చదరపు మైళ్ళు)
+| tributaries_left = రియో నీగ్రో (అమెజాన్)
+| tributaries_right = టెఫే నది
+}}
+    
+అమెజాన్ నది [[పెరూ, కొలంబియా, బ్రెజిల్]] దేశమునకు చెందినది.
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+అమెజాన్ నది పరీవాహక ప్రాంతం 7,000,000 చదరపు కిలోమీటర్లు (2,700,000 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) -15.5178. ఈ నది రేఖాంశం(లాంగిట్యూడ్) -71.6936.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Amazon_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+రియో నీగ్రో (అమెజాన్),టెఫే నది మొదలగునవి అమెజాన్ నదికి ముఖ్యమైన ఉపనదులు.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+[[పెరూ, కొలంబియా, బ్రెజిల్]]లోని అపురిమాక్ నది, మిస్మిలోని పెరూ దగ్గర అమెజాన్ నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;అమెజాన్ నది మూలం ఎత్తు 5,220 మీటర్లు (17,130 అడుగులు).&lt;ref name="wiki_link" /&gt;ఈ నది బ్రెజిల్ దగ్గర [[అట్లాంటిక్ మహాసముద్రం]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+అమెజాన్ నది నోరు దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;అమెజాన్ నది లోని నీరు క్షణముకు సగటు 105,720 ఘనపు మీటర్/సెకండ్ (3,733,000 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా గరిష్ట మోతాదు క్షణముకు 306,317 క్యూబిక్ మీటర్లు (10,817,500 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 75602 క్యూబిక్ మీటర్లు (2669900 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>అము దర్యా</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2524">
+            
+
+
+{{Infobox river
+| name = అము దర్యా
+| image = Amudaryasunset.jpg
+| image_size = 300
+|image_caption =అము దర్యా నది
+| subdivision_type3  = ప్రాంతం
+| subdivision_name3 =మధ్య ఆసియా
+| length=2620.0 కి.మీ.
+| discharge1_min= 420 క్యూబిక్ మీటర్లు (15000 క్యూబిక్ అడుగులు)
+| discharge1_avg = 2,525 ఘనపు మీటర్/సెకండ్ (89,200 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 5,900 క్యూబిక్ మీటర్లు (210,000 క్యూబిక్ అడుగులు)
+| source1 = కైజిల్-సు, పామీర్ నది, వక్ష్ (నది), పంజ్ (నది)
+| source1_location = జోర్కుల్, పామిర్ పర్వతాలు, తజికిస్తాన్
+| source1_elevation =4,130 మీటర్లు (13,550 అడుగులు) కి.మీ.
+| mouth= అరల్ సముద్రం
+| mouth_location = అముదర్య డెల్టా, ఉజ్బెకిస్తాన్
+| mouth_elevation =28 మీటర్లు (92 అడుగులు) కి.మీ.
+| basin_size = 534,739 చదరపు కిలోమీటర్లు (206,464 చదరపు మైళ్ళు)
+| tributaries_left = పంజ్ (నది)
+| tributaries_right = జెరవ్షన్ (నది), వక్ష్ (నది), సుర్క్సోందర్యో (నది)
+}}
+    
+అము దర్యా నది ఇతర పేర్లు ఆక్సస్, జేహౌన్, డీఏ అము సింధు, వక్సు, అము నది.ఈ నది మూల స్థానం నుండి దాదాపు 2620.0 కిలోమీటర్లు దూరం [[మధ్య ఆసియా]]లో ప్రవహిస్తుంది.
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+అము దర్యా నది 534,739 చదరపు కిలోమీటర్లు (206,464 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) 37.4511. ఈ నది రేఖాంశం(లాంగిట్యూడ్) 73.5725.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Amu_Darya|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+అము దర్యా నదికి గల ముఖ్యమైన ఉపనదులు పంజ్ (నది),జెరవ్షన్ (నది), వక్ష్ (నది), సుర్క్సోందర్యో (నది).&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+అము దర్యా నది కైజిల్-సు, పామీర్ నది, వక్ష్ (నది), పంజ్ (నది)లోని జోర్కుల్, పామిర్ పర్వతాలు, తజికిస్తాన్ దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;అము దర్యా నది మూలం ఎత్తు 4,130 మీటర్లు (13,550 అడుగులు).&lt;ref name="wiki_link" /&gt;అము దర్యా నది అముదర్య డెల్టా, ఉజ్బెకిస్తాన్ దగ్గర [[అరల్ సముద్రం]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది 28 మీటర్లు (92 అడుగులు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+అము దర్యా నది లోని నీరు క్షణముకు సగటు 2,525 ఘనపు మీటర్/సెకండ్ (89,200 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా గరిష్ట మోతాదు క్షణముకు 5,900 క్యూబిక్ మీటర్లు (210,000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 420 క్యూబిక్ మీటర్లు (15000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>ఆర్నో</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1572">
+            
+
+
+{{Infobox river
+| name = ఆర్నో
+| image = View_From_the_Ponte_Vecchio_of_the_River_Arno.jpg
+| image_size = 300
+|image_caption =ఆర్నో నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = ఇటలీ
+| subdivision_type3  = ప్రాంతం
+| subdivision_name3 =టుస్కానీ
+| length=241.0 కి.మీ.
+| discharge1_avg = 110 ఘనపు మీటర్/సెకండ్ (3,900 ఘనపు అడుగులు/సెకండ్)
+| source1 = మోంటే ఫాల్టెరోనా
+| source1_elevation =1,385 మీటర్లు (4,544 అడుగులు) కి.మీ.
+| mouth= టైర్హేనియన్ సముద్రం
+| mouth_location = మెరీనా డి పిసా
+| basin_size = 8,228 చదరపు కిలోమీటర్లు (3,177 చదరపు మైళ్ళు)
+}}
+    
+ఆర్నో నది [[ఇటలీ]] దేశమునకు చెందినది.ఈ నది మూల స్థానం నుండి దాదాపు 241.0 కిలోమీటర్లు దూరం [[టుస్కానీ]]లో ప్రవహిస్తుంది.
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+ఆర్నో నది పరీవాహక ప్రాంతం 8,228 చదరపు కిలోమీటర్లు (3,177 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) 43.6802, రేఖాంశం(లాంగిట్యూడ్) 10.2774.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Arno|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+[[ఇటలీ]]లోని మోంటే ఫాల్టెరోనాలో ఆర్నో నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది మూలం ఎత్తు 1,385 మీటర్లు (4,544 అడుగులు).&lt;ref name="wiki_link" /&gt;ఆర్నో నది మెరీనా డి పిసా దగ్గర [[టైర్హేనియన్ సముద్రం]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+ఆర్నో నది లోని నీరు క్షణముకు సగటు 110 ఘనపు మీటర్/సెకండ్ (3,900 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>బ్రాంకో</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1610">
+            
+
+
+{{Infobox river
+| name = బ్రాంకో
+| image = Rio_Branco_sul.jpg
+| image_size = 300
+|image_caption =బ్రాంకో నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = బ్రెజిల్
+| length=560.0 కి.మీ.
+| discharge1_avg = 5,400 ఘనపు మీటర్/సెకండ్ (190,000 ఘనపు అడుగులు/సెకండ్)
+| source1_location = టకుటు మరియు ఉరారికోరా నదుల సంగమం, రోరైమా, బ్రెజిల్
+| mouth_location = రియో నీగ్రో (అమెజాన్), బ్రెజిల్, రోరైమా
+| basin_size = 185,000 చదరపు కిలోమీటర్లు (71,000 చదరపు మైళ్ళు)
+}}
+    
+బ్రాంకో నది [[బ్రెజిల్]] దేశమునకు చెందినది.బ్రాంకో నది 560.0 కిలోమీటర్లు పొడవు ఉంటుంది.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Branco_River|title=Branco|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+బ్రాంకో నది 185,000 చదరపు కిలోమీటర్లు (71,000 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) -1.39389, రేఖాంశం(లాంగిట్యూడ్) -61.8461.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Branco_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+బ్రాంకో నది [[బ్రెజిల్]]లోని టకుటు మరియు ఉరారికోరా నదుల సంగమం, రోరైమా, బ్రెజిల్ దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;బ్రాంకో నది రియో నీగ్రో (అమెజాన్), బ్రెజిల్, రోరైమా దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+ఈ నది లోని నీరు క్షణముకు సగటు 5,400 ఘనపు మీటర్/సెకండ్ (190,000 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>కొలంబియా</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2978">
+            
+
+
+{{Infobox river
+| name = కొలంబియా
+| image = Columbia_River_from_Rowena_Crest_Viewpoint_looking_east.jpg
+| image_size = 300
+|image_caption =కొలంబియా నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = యునైటెడ్ స్టేట్స్, కెనడా
+| subdivision_type2  = రాష్ట్రం
+| subdivision_name2  = వాషింగ్టన్, ఒరెగాన్
+| length=2000.41 కి.మీ.
+| discharge1_location= నోరు నుండి గరిష్ఠంగా మరియు నిమి డల్లాస్, ఒరెగాన్ వద్ద
+| discharge1_min= 12100 క్యూబిక్ అడుగులు (340 క్యూబిక్ మీటర్లు)
+| discharge1_avg = 265,000 ఘనపు అడుగులు/సెకండ్ (7,500 ఘనపు మీటర్/సెకండ్)
+| discharge1_max = 1,240,000 క్యూబిక్ అడుగులు (35,000 క్యూబిక్ మీటర్లు)
+| source1 = కొలంబియా లేక్, తిమోతీ ఎగన్, ది గుడ్ రెయిన్
+| source1_location = బ్రిటిష్ కొలంబియా, కెనడా
+| source1_elevation =2,690 అడుగులు (820 మీటర్లు) కి.మీ.
+| mouth= క్లాట్‌సోప్ కౌంటీ, ఒరెగాన్, పసిఫిక్ కౌంటీ, వాషింగ్టన్, పసిఫిక్ మహాసముద్రం
+| mouth_elevation =0 అడుగులు (0 మీటర్లు) కి.మీ.
+| basin_size = 258,000 చదరపు మైళ్ళు (670,000 చదరపు కిలోమీటర్లు)
+| tributaries_left = డెస్చుట్స్ నది (ఒరెగాన్)
+| tributaries_right = ఒకనోగన్ నది
+}}
+    
+కొలంబియా నది [[యునైటెడ్ స్టేట్స్, కెనడా]] దేశానికి చెందినది.కొలంబియా నది వాషింగ్టన్, ఒరెగాన్ రాష్ట్రాలలో ప్రవహిస్తుంది.ఈ నది పొడవు 2000.41కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Columbia_River|title=Columbia|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+కొలంబియా నది 258,000 చదరపు మైళ్ళు (670,000 చదరపు కిలోమీటర్లు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) 50.2264. ఈ నది రేఖాంశం(లాంగిట్యూడ్) -115.851.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Columbia_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+కొలంబియా నదికి గల ముఖ్యమైన ఉపనదులు డెస్చుట్స్ నది (ఒరెగాన్),ఒకనోగన్ నది.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+[[యునైటెడ్ స్టేట్స్, కెనడా]]లోని కొలంబియా లేక్, తిమోతీ ఎగన్, ది గుడ్ రెయిన్లోని బ్రిటిష్ కొలంబియా, కెనడా దగ్గర కొలంబియా నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;కొలంబియా నది మూలం ఎత్తు 2,690 అడుగులు (820 మీటర్లు).&lt;ref name="wiki_link" /&gt;ఈ నది [[క్లాట్‌సోప్ కౌంటీ, ఒరెగాన్, పసిఫిక్ కౌంటీ, వాషింగ్టన్, పసిఫిక్ మహాసముద్రం]]లో కలుస్తుంది. &lt;ref name="dbpedia_link" /&gt;ఈ నది 0 అడుగులు (0 మీటర్లు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+కొలంబియా నది నోరు నుండి గరిష్ఠంగా మరియు నిమి డల్లాస్, ఒరెగాన్ వద్ద వద్ద సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;కొలంబియా నది లోని నీరు క్షణముకు సగటు 265,000 ఘనపు అడుగులు/సెకండ్ (7,500 ఘనపు మీటర్/సెకండ్).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా గరిష్ట మోతాదు క్షణముకు 1,240,000 క్యూబిక్ అడుగులు (35,000 క్యూబిక్ మీటర్లు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 12100 క్యూబిక్ అడుగులు (340 క్యూబిక్ మీటర్లు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>కాసిక్వేర్ కాలువ</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1347">
+            
+
+
+{{Infobox river
+| name = కాసిక్వేర్ కాలువ
+| image = Casiquiarerivermap.png
+| image_size = 300
+|image_caption =కాసిక్వేర్ కాలువ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = వెనిజులా
+| length=340.0 కి.మీ.
+| source1 = ఒరినోకో
+| mouth= రియో నీగ్రో (అమెజాన్)
+| basin_size = 42,300 చదరపు కిలోమీటర్లు (16,300 చదరపు మైళ్ళు)
+}}
+    
+కాసిక్వేర్ కాలువ నది [[వెనిజులా]] దేశమునకు చెందినది.కాసిక్వేర్ కాలువ నది 340.0 కిలోమీటర్లు పొడవు ఉంటుంది.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Casiquiare_canal|title=Casiquiare canal|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+కాసిక్వేర్ కాలువ నది 42,300 చదరపు కిలోమీటర్లు (16,300 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) 3.13833. ఈ నది రేఖాంశం(లాంగిట్యూడ్) -65.8803.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Casiquiare_canal|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+[[వెనిజులా]]లోని ఒరినోకోలో కాసిక్వేర్ కాలువ నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది [[రియో నీగ్రో (అమెజాన్)]]లో కలుస్తుంది. &lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>యాంగ్ట్జ్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2489">
+            
+
+
+{{Infobox river
+| name = యాంగ్ట్జ్
+| image = Dusk_on_the_Yangtze_River.jpg
+| image_size = 300
+|image_caption =యాంగ్ట్జ్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = చైనా
+| length=6300.0 కి.మీ.
+| discharge1_min= 2000 క్యూబిక్ మీటర్లు (71000 క్యూబిక్ అడుగులు)
+| discharge1_avg = 30,708 ఘనపు మీటర్/సెకండ్ (1,084,400 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 110,000 క్యూబిక్ మీటర్లు (3,900,000 క్యూబిక్ అడుగులు)
+| source1 = చుమేర్ నది, బి క్యూ, ఉలాన్ మోరాన్, ములువుసు నది, డ్యామ్ క్యూ
+| source1_location = తంగ్గులా పర్వతాలు, కింగ్హై
+| source1_elevation =5,170 మీటర్లు (16,960 అడుగులు) కి.మీ.
+| mouth= తూర్పు చైనా సముద్రం
+| mouth_location = షాంఘై మరియు జియాంగ్సు
+| basin_size = 1,808,500 చదరపు కిలోమీటర్లు (698,300 చదరపు మైళ్ళు)
+| tributaries_left = మిన్ నది (సిచువాన్)
+| tributaries_right = హువాంగ్పూ నది
+}}
+    
+యాంగ్ట్జ్ నది [[చైనా]] దేశమునకు చెందినది.ఈ నది పొడవు 6300.0కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Yangtze|title=Yangtze|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+యాంగ్ట్జ్ నది 1,808,500 చదరపు కిలోమీటర్లు (698,300 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) 32.6039. ఈ నది రేఖాంశం(లాంగిట్యూడ్) 94.5122.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Yangtze|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+యాంగ్ట్జ్ నది ఎడమ ఉపనదులు మిన్ నది (సిచువాన్).యాంగ్ట్జ్ నది కుడి ఉపనదులు హువాంగ్పూ నది.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+[[చైనా]]లోని చుమేర్ నది, బి క్యూ, ఉలాన్ మోరాన్, ములువుసు నది, డ్యామ్ క్యూలోని తంగ్గులా పర్వతాలు, కింగ్హై దగ్గర యాంగ్ట్జ్ నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;యాంగ్ట్జ్ నది మూలం ఎత్తు 5,170 మీటర్లు (16,960 అడుగులు).&lt;ref name="wiki_link" /&gt;ఈ నది షాంఘై మరియు జియాంగ్సు దగ్గర [[తూర్పు చైనా సముద్రం]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+యాంగ్ట్జ్ నది లోని నీరు క్షణముకు సగటు 30,708 ఘనపు మీటర్/సెకండ్ (1,084,400 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt; ఇప్పటి వరకు నమోదు అయినా రికార్డుల ప్రకారం యాంగ్ట్జ్ నది లోని నీరు క్షణముకు గరిష్ట మోతాదు 110,000 క్యూబిక్ మీటర్లు (3,900,000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 2000 క్యూబిక్ మీటర్లు (71000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>దౌగవ</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1866">
+            
+
+
+{{Infobox river
+| name = దౌగవ
+| image = Riga,_Daugava_River.jpg
+| image_size = 300
+|image_caption =దౌగవ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = బెలారస్, లాట్వియా, రష్యా
+| length=1020.0 కి.మీ.
+| discharge1_avg = 678 ఘనపు మీటర్/సెకండ్ (23,900 ఘనపు అడుగులు/సెకండ్)
+| source1_location = రష్యా, వాల్డై హిల్స్
+| source1_elevation =221 మీటర్లు (725 అడుగులు) కి.మీ.
+| mouth_location = గల్ఫ్ ఆఫ్ రిగా, బాల్టిక్ సముద్రం
+| mouth_elevation =0 మీటర్లు (0 అడుగులు) కి.మీ.
+| basin_size = 87,900 చదరపు కిలోమీటర్లు (33,900 చదరపు మైళ్ళు)
+}}
+    
+దౌగవ నది [[బెలారస్, లాట్వియా, రష్యా]] దేశానికి చెందినది.దౌగవ నదిని వైనా, పశ్చిమ ద్వినా, దునా అని కూడా పిలుస్తారు.దౌగవ నది 1020.0 కిలోమీటర్లు పొడవు ఉంటుంది.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Daugava|title=Daugava|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+దౌగవ నది 87,900 చదరపు కిలోమీటర్లు (33,900 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;దౌగవ నది అక్షాంశం(లాటిట్యూడ్) 57.0617, రేఖాంశం(లాంగిట్యూడ్) 24.0306.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Daugava|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+దౌగవ నది [[బెలారస్, లాట్వియా, రష్యా]]లోని రష్యా, వాల్డై హిల్స్ దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది మూలం ఎత్తు 221 మీటర్లు (725 అడుగులు).&lt;ref name="wiki_link" /&gt;ఈ నది గల్ఫ్ ఆఫ్ రిగా, బాల్టిక్ సముద్రం దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;దౌగవ నది 0 మీటర్లు (0 అడుగులు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+దౌగవ నది లోని నీరు క్షణముకు సగటు 678 ఘనపు మీటర్/సెకండ్ (23,900 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>డెట్రాయిట్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2079">
+            
+
+
+{{Infobox river
+| name = డెట్రాయిట్
+| image = Line7133_%2825152922307%29.jpg
+| image_size = 300
+|image_caption =డెట్రాయిట్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = యునైటెడ్ స్టేట్స్, కెనడా
+| subdivision_type2  = రాష్ట్రం
+| subdivision_name2  = మిచిగాన్
+| length=45.0616 కి.మీ.
+| source1 = సెయింట్ క్లైర్ సరస్సు
+| source1_elevation =574 అడుగులు (175 మీటర్లు) కి.మీ.
+| mouth= ఎరీ సరస్సు
+| mouth_elevation =571 అడుగులు (174 మీటర్లు) కి.మీ.
+| basin_size = 700 చదరపు మైళ్ళు (1,800 చదరపు కిలోమీటర్లు)
+| tributaries_left = లిటిల్ రివర్, రివర్ కెనార్డ్
+| tributaries_right = రివర్ రూజ్ (మిచిగాన్), ఎకోర్స్ నది
+}}
+    
+డెట్రాయిట్ నది [[యునైటెడ్ స్టేట్స్, కెనడా]] దేశమునకు చెందినది.డెట్రాయిట్ నదిని రివియర్ డెట్రాయిట్ అని కూడా పిలుస్తారు.మిచిగాన్ రాష్ట్రాలలో డెట్రాయిట్ నది ప్రవహిస్తుంది.డెట్రాయిట్ నది పొడవు 45.0616 కిలోమీటర్లు. &lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Detroit_River|title=Detroit|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+డెట్రాయిట్ నది 700 చదరపు మైళ్ళు (1,800 చదరపు కిలోమీటర్లు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;డెట్రాయిట్ నది అక్షాంశం(లాటిట్యూడ్) 42.3519. డెట్రాయిట్ నది రేఖాంశం(లాంగిట్యూడ్) -82.9175.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Category:Detroit_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+లిటిల్ రివర్, రివర్ కెనార్డ్,రివర్ రూజ్ (మిచిగాన్), ఎకోర్స్ నది మొదలగునవి డెట్రాయిట్ నదికి ముఖ్యమైన ఉపనదులు.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+డెట్రాయిట్ నది [[యునైటెడ్ స్టేట్స్, కెనడా]]లోని సెయింట్ క్లైర్ సరస్సులో  మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది మూలం ఎత్తు 574 అడుగులు (175 మీటర్లు).&lt;ref name="wiki_link" /&gt;డెట్రాయిట్ నది [[ఎరీ సరస్సు]]లో కలుస్తుంది. &lt;ref name="dbpedia_link" /&gt;ఈ నది 571 అడుగులు (174 మీటర్లు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>తూర్పు</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1695">
+            
+
+
+{{Infobox river
+| name = తూర్పు
+| image = East_River_and_UN.jpg
+| image_size = 300
+|image_caption =తూర్పు నది
+| map = Relief_map_of_USA_Michigan.png
+| map_size = 300 px
+| map_caption = తూర్పు నది పటం
+| subdivision_type1  = దేశం
+| subdivision_name1  = యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా
+| subdivision_type2  = రాష్ట్రం
+| subdivision_name2  = న్యూయార్క్
+| length=25.7495 కి.మీ.
+| source1 = లాంగ్ ఐలాండ్ సౌండ్
+| mouth= ఎగువ న్యూయార్క్ బే
+| tributaries_left = న్యూటౌన్ క్రీక్, ఫ్లషింగ్ రివర్
+| tributaries_right = హార్లెం నది, వెస్ట్‌చెస్టర్ క్రీక్, బ్రోంక్స్ నది, బ్రోంక్స్ కిల్
+}}
+    
+తూర్పు నది [[యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా]] దేశమునకు చెందినది.న్యూయార్క్ రాష్ట్రాలలో తూర్పు నది ప్రవహిస్తుంది.ఈ నది పొడవు 25.7495కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/East_River|title=East|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+తూర్పు నది అక్షాంశం(లాటిట్యూడ్) 40.8002. తూర్పు నది రేఖాంశం(లాంగిట్యూడ్) -73.792.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Category:East_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+తూర్పు నది ఎడమ ఉపనదులు న్యూటౌన్ క్రీక్, ఫ్లషింగ్ రివర్.తూర్పు నది కుడి ఉపనదులు హార్లెం నది, వెస్ట్‌చెస్టర్ క్రీక్, బ్రోంక్స్ నది, బ్రోంక్స్ కిల్.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+[[యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా]]లోని లాంగ్ ఐలాండ్ సౌండ్లో తూర్పు నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది [[ఎగువ న్యూయార్క్ బే]]లో కలుస్తుంది. &lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>యూఫ్రేట్స్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2448">
+            
+
+
+{{Infobox river
+| name = యూఫ్రేట్స్
+| image = Birecik_Fırat_09.jpg
+| image_size = 300
+|image_caption =యూఫ్రేట్స్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = టర్కీ, ఇరాక్, సిరియా
+| length=2800.0 కి.మీ.
+| discharge1_location= హిట్, ఇరాక్
+| discharge1_min= 58 క్యూబిక్ మీటర్లు (2000 క్యూబిక్ అడుగులు)
+| discharge1_avg = 356 ఘనపు మీటర్/సెకండ్ (12,600 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 2,514 క్యూబిక్ మీటర్లు (88,800 క్యూబిక్ అడుగులు)
+| source1_location = మురత్ నది
+| source1_elevation =3,520 మీటర్లు (11,550 అడుగులు) కి.మీ.
+| mouth= షట్ అల్-అరబ్
+| mouth_location = బస్రా గవర్నరేట్, ఇరాక్, అల్-ఖుర్నా
+| basin_size = 500,000 చదరపు కిలోమీటర్లు (190,000 చదరపు మైళ్ళు)
+| tributaries_left = బాలిఖ్ నది
+| tributaries_right = సజుర్ నది
+}}
+    
+యూఫ్రేట్స్ నది [[టర్కీ, ఇరాక్, సిరియా]] దేశమునకు చెందినది.యూఫ్రేట్స్ నది పొడవు 2800.0 కిలోమీటర్లు. &lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Euphrates|title=Euphrates|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+యూఫ్రేట్స్ నది 500,000 చదరపు కిలోమీటర్లు (190,000 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;యూఫ్రేట్స్ నది అక్షాంశం(లాటిట్యూడ్) 31.005. యూఫ్రేట్స్ నది రేఖాంశం(లాంగిట్యూడ్) 47.4419.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Euphrates|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+యూఫ్రేట్స్ నదికి గల ముఖ్యమైన ఉపనదులు బాలిఖ్ నది,సజుర్ నది.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+[[టర్కీ, ఇరాక్, సిరియా]]లోని మురత్ నది దగ్గర యూఫ్రేట్స్ నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;యూఫ్రేట్స్ నది మూలం ఎత్తు 3,520 మీటర్లు (11,550 అడుగులు).&lt;ref name="wiki_link" /&gt;యూఫ్రేట్స్ నది బస్రా గవర్నరేట్, ఇరాక్, అల్-ఖుర్నా దగ్గర [[షట్ అల్-అరబ్]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+యూఫ్రేట్స్ నది సముద్రంలో కలిసే స్థలం హిట్, ఇరాక్.&lt;ref name="dbpedia_link" /&gt;ఈ నది లోని నీరు క్షణముకు సగటు 356 ఘనపు మీటర్/సెకండ్ (12,600 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt; ఇప్పటి వరకు నమోదు అయినా రికార్డుల ప్రకారం యూఫ్రేట్స్ నది లోని నీరు క్షణముకు గరిష్ట మోతాదు 2,514 క్యూబిక్ మీటర్లు (88,800 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 58 క్యూబిక్ మీటర్లు (2000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>గంగా నది</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2872">
+            
+
+
+{{Infobox river
+| name = గంగా నది
+| image = Varanasiganga.jpg
+| image_size = 300
+|image_caption =గంగా నది నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = భారతదేశం (గంగా), బంగ్లాదేశ్ (పద్మగా)
+| length=2525.0 కి.మీ.
+| discharge1_location= ఫరక్కా బ్యారేజీ
+| discharge1_min= 180 క్యూబిక్ మీటర్లు (6400 క్యూబిక్ అడుగులు)
+| discharge1_avg = 38,129 ఘనపు మీటర్/సెకండ్ (1,346,500 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 70,000 క్యూబిక్ మీటర్లు (2,500,000 క్యూబిక్ అడుగులు)
+| source1 = దేవప్రయాగ, ఉత్తరాఖండ్ అలకనంద నది ఆఫ్ భాగీరథి నది సంగమం. నది యొక్క ప్రధాన జలాలు: మందాకిని, నందాకిని, పిండార్ ఆఫ్ ధౌలిగంగ, అలకనంద యొక్క అన్ని ఉపనదులు.
+| source1_location = దేవప్రయాగ, గంగానది ప్రధాన కాండం ప్రారంభం
+| mouth= బంగాళాఖాతం
+| mouth_location = గంగా డెల్టా
+| basin_size = 1,016,124 చదరపు కిలోమీటర్లు (392,328 చదరపు మైళ్ళు)
+| tributaries_left = రామగంగా, గర్రా, గోమతి, ఘఘరా, గండక్, బుర్హి గండక్, కోషి, మహానంద
+| tributaries_right = యమునా, తంసా, కరమ్నాస, సోనే, పున్పున్, ఫల్గు, కియుల్, చందన్, అజోయ్, దామోదర్, రూపనారాయణ్
+}}
+    
+గంగా నది నది [[భారతదేశం (గంగా), బంగ్లాదేశ్ (పద్మగా)]] దేశానికి చెందినది.గంగా నది నది పొడవు 2525.0 కిలోమీటర్లు. &lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Ganges|title=Ganges|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+గంగా నది నది పరీవాహక ప్రాంతం 1,016,124 చదరపు కిలోమీటర్లు (392,328 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) 25.3, రేఖాంశం(లాంగిట్యూడ్) 83.01.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Category:Ganges|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+గంగా నది నదికి గల ముఖ్యమైన ఉపనదులు రామగంగా, గర్రా, గోమతి, ఘఘరా, గండక్, బుర్హి గండక్, కోషి, మహానంద,యమునా, తంసా, కరమ్నాస, సోనే, పున్పున్, ఫల్గు, కియుల్, చందన్, అజోయ్, దామోదర్, రూపనారాయణ్.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+[[భారతదేశం (గంగా), బంగ్లాదేశ్ (పద్మగా)]]లోని దేవప్రయాగ, ఉత్తరాఖండ్ అలకనంద నది ఆఫ్ భాగీరథి నది సంగమం. నది యొక్క ప్రధాన జలాలు: మందాకిని, నందాకిని, పిండార్ ఆఫ్ ధౌలిగంగ, అలకనంద యొక్క అన్ని ఉపనదులు.లోని దేవప్రయాగ, గంగానది ప్రధాన కాండం ప్రారంభం దగ్గర గంగా నది నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది గంగా డెల్టా దగ్గర [[బంగాళాఖాతం]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+గంగా నది నది ఫరక్కా బ్యారేజీ దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;గంగా నది నది లోని నీరు క్షణముకు సగటు 38,129 ఘనపు మీటర్/సెకండ్ (1,346,500 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా గరిష్ట మోతాదు క్షణముకు 70,000 క్యూబిక్ మీటర్లు (2,500,000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 180 క్యూబిక్ మీటర్లు (6400 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>హమోజ్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="825">
+            
+
+
+{{Infobox river
+| name = హమోజ్
+| image = Devonport_Dockyard.jpg
+| image_size = 300
+|image_caption =హమోజ్ నది
+| mouth= ప్లైమౌత్ సౌండ్
+| tributaries_left = *సెయింట్ జాన్స్ లేక్*మిల్‌బ్రూక్ సరస్సు
+}}
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+ఈ నది అక్షాంశం(లాటిట్యూడ్) 50.3956. ఈ నది రేఖాంశం(లాంగిట్యూడ్) -4.20778.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Hamoaze|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+*సెయింట్ జాన్స్ లేక్*మిల్‌బ్రూక్ సరస్సు,nan మొదలగునవి హమోజ్ నదికి ముఖ్యమైన ఉపనదులు.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+ఈ నది [[ప్లైమౌత్ సౌండ్]]లో కలుస్తుంది. &lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>సింధు</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2536">
+            
+
+
+{{Infobox river
+| name = సింధు
+| image = Nanga_Parbat_Indus_Gorge.jpg
+| image_size = 300
+|image_caption =సింధు నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = కాశ్మీర్ ప్రాంతంలో చైనా, భారత్, పాకిస్థాన్ సార్వభౌమాధికారం వివాదాస్పదమైంది
+| discharge1_location= సింధు డెల్టా, అరేబియా సముద్రం, పాకిస్థాన్
+| discharge1_min= 1200 క్యూబిక్ మీటర్లు (42000 క్యూబిక్ అడుగులు)
+| discharge1_avg = 2,469 ఘనపు మీటర్/సెకండ్ (87,200 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 58,000 క్యూబిక్ మీటర్లు (2,000,000 క్యూబిక్ అడుగులు)
+| source1 = మానస సరోవరం
+| source1_location = టిబెటన్ పీఠభూమి
+| mouth= రాన్ ఆఫ్ కచ్, అరేబియా సముద్రం
+| mouth_location = సింధు నది డెల్టా, కోరి క్రీక్, పాకిస్తాన్, భారతదేశం
+| mouth_elevation =0 మీటర్లు (0 అడుగులు) కి.మీ.
+| basin_size = 1,165,000 చదరపు కిలోమీటర్లు (450,000 చదరపు మైళ్ళు)
+| tributaries_left = బియాస్ నది
+| tributaries_right = స్వాత్ నది
+}}
+    
+సింధు నది [[కాశ్మీర్ ప్రాంతంలో చైనా, భారత్, పాకిస్థాన్ సార్వభౌమాధికారం వివాదాస్పదమైంది]] దేశమునకు చెందినది.సింధు నది ఇతర పేర్లు సింధు.
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+సింధు నది పరీవాహక ప్రాంతం 1,165,000 చదరపు కిలోమీటర్లు (450,000 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;సింధు నది అక్షాంశం(లాటిట్యూడ్) 32.4983. సింధు నది రేఖాంశం(లాంగిట్యూడ్) 79.6911.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Indus_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+సింధు నది ఎడమ ఉపనదులు బియాస్ నది.సింధు నది కుడి ఉపనదులు స్వాత్ నది.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+సింధు నది కాశ్మీర్ ప్రాంతంలో చైనా, భారత్, పాకిస్థాన్ సార్వభౌమాధికారం వివాదాస్పదమైందిలోని మానస సరోవరంలోని టిబెటన్ పీఠభూమి దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;సింధు నది సింధు నది డెల్టా, కోరి క్రీక్, పాకిస్తాన్, భారతదేశం దగ్గర [[రాన్ ఆఫ్ కచ్, అరేబియా సముద్రం]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది 0 మీటర్లు (0 అడుగులు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+సింధు నది సింధు డెల్టా, అరేబియా సముద్రం, పాకిస్థాన్ వద్ద సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;సింధు నది లోని నీరు క్షణముకు సగటు 2,469 ఘనపు మీటర్/సెకండ్ (87,200 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా గరిష్ట మోతాదు క్షణముకు 58,000 క్యూబిక్ మీటర్లు (2,000,000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 1200 క్యూబిక్ మీటర్లు (42000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>జావరీ</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2043">
+            
+
+
+{{Infobox river
+| name = జావరీ
+| image = Bcamazonica.jpg
+| image_size = 300
+|image_caption =జావరీ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = బ్రెజిల్, పెరూ
+| length=1184.0 కి.మీ.
+| discharge1_location= నోరు
+| discharge1_avg = 2,503 ఘనపు మీటర్/సెకండ్ (88,400 ఘనపు అడుగులు/సెకండ్)
+| source1_location = పెరూ, సియెర్రా డి కాంటామనా, డిపార్ట్‌మెంట్ ఆఫ్ ఉకాయాలి
+| mouth= అమెజాన్ నది
+| mouth_location = బ్రెజిల్, అమెజానాస్ (బ్రెజిలియన్ రాష్ట్రం)
+| basin_size = 99,674.09 చదరపు కిలోమీటర్లు (38,484.38 చదరపు మైళ్ళు)
+| tributaries_left = ఇటుయి నది, కురుచా నది (జవారీ నది ఉపనది)
+| tributaries_right = యవరి-మిరిమ్ నది, గాల్వ్స్ నది
+}}
+    
+జావరీ నది [[బ్రెజిల్, పెరూ]] దేశమునకు చెందినది.జావరీ నదిని జవరి నది అని కూడా పిలుస్తారు.ఈ నది పొడవు 1184.0కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Javary_River|title=Javary|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+జావరీ నది పరీవాహక ప్రాంతం 99,674.09 చదరపు కిలోమీటర్లు (38,484.38 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) -7.11422, రేఖాంశం(లాంగిట్యూడ్) -73.8012.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Javary_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+జావరీ నదికి గల ముఖ్యమైన ఉపనదులు ఇటుయి నది, కురుచా నది (జవారీ నది ఉపనది),యవరి-మిరిమ్ నది, గాల్వ్స్ నది.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+[[బ్రెజిల్, పెరూ]]లోని పెరూ, సియెర్రా డి కాంటామనా, డిపార్ట్‌మెంట్ ఆఫ్ ఉకాయాలి దగ్గర జావరీ నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;జావరీ నది బ్రెజిల్, అమెజానాస్ (బ్రెజిలియన్ రాష్ట్రం) దగ్గర [[అమెజాన్ నది]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+జావరీ నది నోరు దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;జావరీ నది లోని నీరు క్షణముకు సగటు 2,503 ఘనపు మీటర్/సెకండ్ (88,400 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>మిస్సిస్సిప్పి</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="3321">
+            
+
+
+{{Infobox river
+| name = మిస్సిస్సిప్పి
+| image = Efmo_View_from_Fire_Point.jpg
+| image_size = 300
+|image_caption =మిస్సిస్సిప్పి నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా
+| subdivision_type2  = రాష్ట్రం
+| subdivision_name2  = మిన్నెసోటా, విస్కాన్సిన్, అయోవా, ఇల్లినాయిస్, మిస్సౌరీ, కెంటుకీ, టేనస్సీ, అర్కాన్సాస్, మిస్సిస్సిప్పి, లూసియానా
+| length=3765.86 కి.మీ.
+| discharge1_location= బాటన్ రూజ్, ఎల్.ఎ వద్ద గరిష్టంగా మరియు నిమిషమేమీ లేదు
+| discharge1_min= 144000 క్యూబిక్ అడుగులు (4100 క్యూబిక్ మీటర్లు)
+| discharge1_avg = 168,000 ఘనపు అడుగులు/సెకండ్ (4,800 ఘనపు మీటర్/సెకండ్)
+| discharge1_max = 2,340,000 క్యూబిక్ అడుగులు (66,000 క్యూబిక్ మీటర్లు)
+| source1 = ఇటాస్కా సరస్సు
+| source1_location = క్లియర్ వాటర్ కౌంటీ, మిన్నెసోటా
+| source1_elevation =1,475 అడుగులు (450 మీటర్లు) కి.మీ.
+| mouth= గల్ఫ్ ఆఫ్ మెక్సికో
+| mouth_location = ప్లేక్‌మైన్స్ పారిష్, లూసియానా, పైలట్‌టౌన్, లూసియానా, లూసియానా
+| mouth_elevation =0 అడుగులు (0 మీటర్లు) కి.మీ.
+| basin_size = 1,151,000 చదరపు మైళ్ళు (2,980,000 చదరపు కిలోమీటర్లు)
+| tributaries_left = సెయింట్ క్రోయిక్స్ నది (విస్కాన్సిన్-మిన్నెసోట్
+| tributaries_right = మిస్సోరి నది
+}}
+    
+మిస్సిస్సిప్పి నది [[యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా]] దేశానికి చెందినది.మిస్సిస్సిప్పి నది మిన్నెసోటా, విస్కాన్సిన్, అయోవా, ఇల్లినాయిస్, మిస్సౌరీ, కెంటుకీ, టేనస్సీ, అర్కాన్సాస్, మిస్సిస్సిప్పి, లూసియానా రాష్ట్రాలలో ప్రవహిస్తుంది.ఈ నది పొడవు 3765.86కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Mississippi_River|title=Mississippi|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+మిస్సిస్సిప్పి నది 1,151,000 చదరపు మైళ్ళు (2,980,000 చదరపు కిలోమీటర్లు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) 47.2397, రేఖాంశం(లాంగిట్యూడ్) -95.2075.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Mississippi_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+మిస్సిస్సిప్పి నదికి గల ముఖ్యమైన ఉపనదులు సెయింట్ క్రోయిక్స్ నది (విస్కాన్సిన్-మిన్నెసోట్,మిస్సోరి నది.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+మిస్సిస్సిప్పి నది యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికాలోని ఇటాస్కా సరస్సులోని క్లియర్ వాటర్ కౌంటీ, మిన్నెసోటా దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;మిస్సిస్సిప్పి నది మూలం ఎత్తు 1,475 అడుగులు (450 మీటర్లు).&lt;ref name="wiki_link" /&gt;మిస్సిస్సిప్పి నది ప్లేక్‌మైన్స్ పారిష్, లూసియానా, పైలట్‌టౌన్, లూసియానా, లూసియానా దగ్గర [[గల్ఫ్ ఆఫ్ మెక్సికో]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది 0 అడుగులు (0 మీటర్లు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+మిస్సిస్సిప్పి నది సముద్రంలో కలిసే స్థలం బాటన్ రూజ్, ఎల్.ఎ వద్ద గరిష్టంగా మరియు నిమిషమేమీ లేదు.&lt;ref name="dbpedia_link" /&gt;మిస్సిస్సిప్పి నది లోని నీరు క్షణముకు సగటు 168,000 ఘనపు అడుగులు/సెకండ్ (4,800 ఘనపు మీటర్/సెకండ్).&lt;ref name="wiki_link" /&gt; ఇప్పటి వరకు నమోదు అయినా రికార్డుల ప్రకారం మిస్సిస్సిప్పి నది లోని నీరు క్షణముకు గరిష్ట మోతాదు 2,340,000 క్యూబిక్ అడుగులు (66,000 క్యూబిక్ మీటర్లు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 144000 క్యూబిక్ అడుగులు (4100 క్యూబిక్ మీటర్లు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>మిస్సోరి</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2978">
+            
+
+
+{{Infobox river
+| name = మిస్సోరి
+| image = Missouri_River_in_2021_01.jpg
+| image_size = 300
+|image_caption =మిస్సోరి నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా
+| subdivision_type2  = రాష్ట్రం
+| subdivision_name2  = మోంటానా, ఉత్తర డకోటా, దక్షిణ డకోటా, నెబ్రాస్కా, అయోవా, కాన్సాస్, మిస్సోరి
+| discharge1_location= హెర్మాన్, ఎం.ఓ ఆర్.ఎం 97.9
+| discharge1_min= 602 క్యూబిక్ అడుగులు (17.0 క్యూబిక్ మీటర్లు)
+| discharge1_avg = 87,520 ఘనపు అడుగులు/సెకండ్ (2,478 ఘనపు మీటర్/సెకండ్)
+| discharge1_max = 750,000 క్యూబిక్ అడుగులు (21,000 క్యూబిక్ మీటర్లు)
+| source1 = ఫైర్‌హోల్ నది, మాడిసన్ నది, బ్రోవర్స్ స్ప్రింగ్
+| source1_location = మోంటానాలోని బ్రౌర్స్ స్ప్రింగ్ సమీపంలో
+| source1_elevation =9,100 అడుగులు (2,800 మీటర్లు) కి.మీ.
+| mouth= మిస్సిస్సిప్పి నది
+| mouth_location = స్పానిష్ సరస్సు, సెయింట్ లూయిస్, మిస్సౌరీకి సమీపంలో ఉంది
+| mouth_elevation =404 అడుగులు (123 మీటర్లు) కి.మీ.
+| basin_size = 529,350 చదరపు మైళ్ళు (1,371,000 చదరపు కిలోమీటర్లు)
+| tributaries_left = పెద్ద సియోక్స్ నది
+| tributaries_right = ఎల్లోస్టోన్ నది
+}}
+    
+మిస్సోరి నది [[యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా]] దేశానికి చెందినది.మిస్సోరి నదిని పెకిటనౌయి, బిగ్ మడ్డీ, మైటీ మో, వైడ్ మిస్సౌరీ, కిక్‌పారుక్‌స్టి, మ్నిసోస్ అని కూడా పిలుస్తారు.మోంటానా, ఉత్తర డకోటా, దక్షిణ డకోటా, నెబ్రాస్కా, అయోవా, కాన్సాస్, మిస్సోరి రాష్ట్రాలలో మిస్సోరి నది ప్రవహిస్తుంది.
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+మిస్సోరి నది 529,350 చదరపు మైళ్ళు (1,371,000 చదరపు కిలోమీటర్లు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;మిస్సోరి నది అక్షాంశం(లాటిట్యూడ్) 44.5506, రేఖాంశం(లాంగిట్యూడ్) -111.473.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Missouri_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+మిస్సోరి నదికి గల ముఖ్యమైన ఉపనదులు పెద్ద సియోక్స్ నది,ఎల్లోస్టోన్ నది.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+మిస్సోరి నది యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికాలోని ఫైర్‌హోల్ నది, మాడిసన్ నది, బ్రోవర్స్ స్ప్రింగ్లోని మోంటానాలోని బ్రౌర్స్ స్ప్రింగ్ సమీపంలో దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;మిస్సోరి నది మూలం ఎత్తు 9,100 అడుగులు (2,800 మీటర్లు).&lt;ref name="wiki_link" /&gt;మిస్సోరి నది స్పానిష్ సరస్సు, సెయింట్ లూయిస్, మిస్సౌరీకి సమీపంలో ఉంది దగ్గర [[మిస్సిస్సిప్పి నది]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది 404 అడుగులు (123 మీటర్లు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+మిస్సోరి నది సముద్రంలో కలిసే స్థలం హెర్మాన్, ఎం.ఓ ఆర్.ఎం 97.9.&lt;ref name="dbpedia_link" /&gt;ఈ నది లోని నీరు క్షణముకు సగటు 87,520 ఘనపు అడుగులు/సెకండ్ (2,478 ఘనపు మీటర్/సెకండ్). &lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా గరిష్ట మోతాదు క్షణముకు 750,000 క్యూబిక్ అడుగులు (21,000 క్యూబిక్ మీటర్లు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 602 క్యూబిక్ అడుగులు (17.0 క్యూబిక్ మీటర్లు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>మెయిన్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1549">
+            
+
+
+{{Infobox river
+| name = మెయిన్
+| image = Würzburg_Löwenbrücke.jpg
+| image_size = 300
+|image_caption =మెయిన్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = జర్మనీ
+| length=524.9 కి.మీ.
+| discharge1_avg = 200 ఘనపు మీటర్/సెకండ్ (7,100 ఘనపు అడుగులు/సెకండ్)
+| source1_location = ఎగువ ఫ్రాంకోనియా
+| source1_elevation =895 మీటర్లు కి.మీ.
+| mouth_location = రైన్
+| basin_size = 27,208 చదరపు కిలోమీటర్లు (10,505 చదరపు మైళ్ళు)
+}}
+    
+మెయిన్ నది [[జర్మనీ]] దేశమునకు చెందినది.మెయిన్ నది 524.9 కిలోమీటర్లు పొడవు ఉంటుంది.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Main_(river)|title=Main|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+మెయిన్ నది 27,208 చదరపు కిలోమీటర్లు (10,505 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) 50.0864, రేఖాంశం(లాంగిట్యూడ్) 11.3983.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Main_(river)|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+మెయిన్ నది [[జర్మనీ]]లోని ఎగువ ఫ్రాంకోనియా దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;మెయిన్ నది మూలం ఎత్తు 895 మీటర్లు.&lt;ref name="wiki_link" /&gt;మెయిన్ నది రైన్ దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+ఈ నది లోని నీరు క్షణముకు సగటు 200 ఘనపు మీటర్/సెకండ్ (7,100 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>ముర్రే</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2217">
+            
+
+
+{{Infobox river
+| name = ముర్రే
+| image = Map_of_the_Murray_River%2C_south-eastern_Australia.tif.png
+| image_size = 300
+|image_caption =ముర్రే నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = ఆస్ట్రేలియా
+| subdivision_type2  = రాష్ట్రం
+| subdivision_name2  = న్యూ దక్షిణ వేల్స్, దక్షిణ ఆస్ట్రేలియా విక్టోరియా
+| discharge1_avg = 767 ఘనపు మీటర్/సెకండ్ (27,100 ఘనపు అడుగులు/సెకండ్)
+| source1 = కౌంబాట్ ఫ్లాట్
+| source1_location = న్యూ సౌత్ వేల్స్, ఆస్ట్రేలియన్ ఆల్ప్స్
+| source1_elevation =1,430 మీటర్లు (4,690 అడుగులు) కి.మీ.
+| mouth_location = దక్షిణ ఆస్ట్రేలియాలోని గూల్వా సమీపంలో
+| mouth_elevation =0 మీటర్లు (0 అడుగులు) కి.మీ.
+| basin_size = 1,061,469 చదరపు కిలోమీటర్లు (409,835 చదరపు మైళ్ళు)
+| tributaries_left = కీవా నది, మిట్టా మిట్టా నది, కాంపాస్పే నది
+| tributaries_right = చిత్తడి మైదాన నది, ముర్రంబిడ్జీ నది, డార్లింగ్ నది
+}}
+    
+ముర్రే నది [[ఆస్ట్రేలియా]] దేశానికి చెందినది.ముర్రే నది న్యూ దక్షిణ వేల్స్, దక్షిణ ఆస్ట్రేలియా విక్టోరియా రాష్ట్రాలలో ప్రవహిస్తుంది.
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+ముర్రే నది 1,061,469 చదరపు కిలోమీటర్లు (409,835 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) -36.7961, రేఖాంశం(లాంగిట్యూడ్) 148.194.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Murray_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+ముర్రే నదికి గల ముఖ్యమైన ఉపనదులు కీవా నది, మిట్టా మిట్టా నది, కాంపాస్పే నది,చిత్తడి మైదాన నది, ముర్రంబిడ్జీ నది, డార్లింగ్ నది.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+ముర్రే నది ఆస్ట్రేలియాలోని కౌంబాట్ ఫ్లాట్లోని న్యూ సౌత్ వేల్స్, ఆస్ట్రేలియన్ ఆల్ప్స్ దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది మూలం ఎత్తు 1,430 మీటర్లు (4,690 అడుగులు).&lt;ref name="wiki_link" /&gt;ముర్రే నది దక్షిణ ఆస్ట్రేలియాలోని గూల్వా సమీపంలో దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది 0 మీటర్లు (0 అడుగులు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+ముర్రే నది లోని నీరు క్షణముకు సగటు 767 ఘనపు మీటర్/సెకండ్ (27,100 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>మదీరా</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2749">
+            
+
+
+{{Infobox river
+| name = మదీరా
+| image = Rio_Madeira_09072007.jpg
+| image_size = 300
+|image_caption =మదీరా నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = బొలీవియా, బ్రెజిల్
+| length=1450.0 కి.మీ.
+| discharge1_location= నోటి దగ్గర
+| discharge1_min= 2346 క్యూబిక్ మీటర్లు (82800 క్యూబిక్ అడుగులు)
+| discharge1_avg = 31,200 ఘనపు మీటర్/సెకండ్ (1,100,000 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 52,804 క్యూబిక్ మీటర్లు (1,864,800 క్యూబిక్ అడుగులు)
+| source1 = మాడ్రే డి డియోస్ ఆఫ్ మామోర్ సంగమం
+| source1_location = బొలీవియాలోని గుయారామెరిన్ సమీపంలో
+| source1_elevation =180 మీటర్లు (590 అడుగులు) కి.మీ.
+| mouth= అమెజాన్ నది
+| mouth_location = బ్రెజిల్, అమెజానాస్ (బ్రెజిలియన్ రాష్ట్రం)
+| mouth_elevation =40 మీటర్లు (130 అడుగులు) కి.మీ.
+| basin_size = 1,376,000 చదరపు కిలోమీటర్లు (531,000 చదరపు మైళ్ళు)
+| tributaries_left = మాడ్రే డి డియోస్ నది
+| tributaries_right = మారీపావా నది, అరిపువానా నది, మామోర్ నది
+}}
+    
+మదీరా నది [[బొలీవియా, బ్రెజిల్]] దేశమునకు చెందినది.మదీరా నది పొడవు 1450.0 కిలోమీటర్లు. &lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Madeira_River|title=Madeira|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+మదీరా నది పరీవాహక ప్రాంతం 1,376,000 చదరపు కిలోమీటర్లు (531,000 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;మదీరా నది అక్షాంశం(లాటిట్యూడ్) -10.6386, రేఖాంశం(లాంగిట్యూడ్) -65.6556.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Madeira_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+మాడ్రే డి డియోస్ నది,మారీపావా నది, అరిపువానా నది, మామోర్ నది మొదలగునవి మదీరా నదికి ముఖ్యమైన ఉపనదులు.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+మదీరా నది బొలీవియా, బ్రెజిల్లోని మాడ్రే డి డియోస్ ఆఫ్ మామోర్ సంగమంలోని బొలీవియాలోని గుయారామెరిన్ సమీపంలో దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది మూలం ఎత్తు 180 మీటర్లు (590 అడుగులు).&lt;ref name="wiki_link" /&gt;ఈ నది బ్రెజిల్, అమెజానాస్ (బ్రెజిలియన్ రాష్ట్రం) దగ్గర [[అమెజాన్ నది]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది 40 మీటర్లు (130 అడుగులు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+మదీరా నది నోటి దగ్గర దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది లోని నీరు క్షణముకు సగటు 31,200 ఘనపు మీటర్/సెకండ్ (1,100,000 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt; ఇప్పటి వరకు నమోదు అయినా రికార్డుల ప్రకారం మదీరా నది లోని నీరు క్షణముకు గరిష్ట మోతాదు 52,804 క్యూబిక్ మీటర్లు (1,864,800 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 2346 క్యూబిక్ మీటర్లు (82800 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>మోరోనా</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="948">
+            
+
+
+{{Infobox river
+| name = మోరోనా
+| length=550.0 కి.మీ.
+| discharge1_avg = 1,050 ఘనపు మీటర్/సెకండ్ (37,000 ఘనపు అడుగులు/సెకండ్)
+| mouth= మారనాన్ నది
+}}
+    
+ఈ నది పొడవు 550.0కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Morona_River|title=Morona|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+ఈ నది అక్షాంశం(లాటిట్యూడ్) -4.73333, రేఖాంశం(లాంగిట్యూడ్) -77.0667.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Morona_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+మోరోనా నది [[మారనాన్ నది]]లో కలుస్తుంది. &lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+మోరోనా నది లోని నీరు క్షణముకు సగటు 1,050 ఘనపు మీటర్/సెకండ్ (37,000 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>మ్యూస్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1811">
+            
+
+
+{{Infobox river
+| name = మ్యూస్
+| image = Dinant_Meuse_R01.jpg
+| image_size = 300
+|image_caption =మ్యూస్ నది
+| subdivision_type3  = ప్రాంతం
+| subdivision_name3 =పశ్చిమ యూరోప్
+| length=925.0 కి.మీ.
+| discharge1_avg = 350 ఘనపు మీటర్/సెకండ్ (12,000 ఘనపు అడుగులు/సెకండ్)
+| source1_location = పౌలీ-ఎన్-బాసిగ్నీ, లే చాటెలెట్-సుర్-మెయూస్, హౌట్-మార్నే, గ్రాండ్ ఎస్ట్, ఫ్రాన్స్
+| source1_elevation =409 మీటర్లు (1,342 అడుగులు) కి.మీ.
+| mouth= నార్త్ సీ
+| mouth_location = నార్త్ బ్రబంట్, హాలండ్స్ డైప్, సౌత్ హాలండ్, నెదర్లాండ్స్
+| mouth_elevation =0 మీటర్లు (0 అడుగులు) కి.మీ.
+| basin_size = 34,548 చదరపు కిలోమీటర్లు (13,339 చదరపు మైళ్ళు)
+}}
+    
+ఈ నది మూల స్థానం నుండి దాదాపు 925.0 కిలోమీటర్లు దూరం [[పశ్చిమ యూరోప్]]లో ప్రవహిస్తుంది.
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+మ్యూస్ నది 34,548 చదరపు కిలోమీటర్లు (13,339 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) 47.9867. ఈ నది రేఖాంశం(లాంగిట్యూడ్) 5.6167.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Meuse|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+మ్యూస్ నది పౌలీ-ఎన్-బాసిగ్నీ, లే చాటెలెట్-సుర్-మెయూస్, హౌట్-మార్నే, గ్రాండ్ ఎస్ట్, ఫ్రాన్స్ దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది మూలం ఎత్తు 409 మీటర్లు (1,342 అడుగులు).&lt;ref name="wiki_link" /&gt;ఈ నది నార్త్ బ్రబంట్, హాలండ్స్ డైప్, సౌత్ హాలండ్, నెదర్లాండ్స్ దగ్గర [[నార్త్ సీ]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;మ్యూస్ నది 0 మీటర్లు (0 అడుగులు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+మ్యూస్ నది లోని నీరు క్షణముకు సగటు 350 ఘనపు మీటర్/సెకండ్ (12,000 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>నేవా</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2218">
+            
+
+
+{{Infobox river
+| name = నేవా
+| image = Spb_Finland_Bridge_asv2019-09_img2.jpg
+| image_size = 300
+|image_caption =నేవా నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = రష్యన్ ఫెడరేషన్
+| subdivision_type3  = ప్రాంతం
+| subdivision_name3 =లెనిన్గ్రాడ్ ఒబ్లాస్ట్, సెయింట్ పీటర్స్బర్గ్
+| length=74.0 కి.మీ.
+| discharge1_location= నోరు
+| discharge1_avg = 2,628 ఘనపు మీటర్/సెకండ్ (92,800 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 4,550 క్యూబిక్ మీటర్లు (161,000 క్యూబిక్ అడుగులు)
+| source1 = లడోగా సరస్సు
+| source1_elevation =4.3 మీటర్లు (14 అడుగులు) కి.మీ.
+| mouth= నెవా బే
+| mouth_elevation =0 మీటర్లు (0 అడుగులు) కి.మీ.
+| basin_size = 282,300 చదరపు కిలోమీటర్లు (109,000 చదరపు మైళ్ళు)
+| tributaries_left = మ్గ (నది), తోస్నా, ఇజోరా
+| tributaries_right = ఓఖ్తా
+}}
+    
+నేవా నది [[రష్యన్ ఫెడరేషన్]] దేశానికి చెందినది.ఈ నది మూల స్థానం నుండి దాదాపు 74.0 కిలోమీటర్లు దూరం [[లెనిన్గ్రాడ్ ఒబ్లాస్ట్, సెయింట్ పీటర్స్బర్గ్]]లో ప్రవహిస్తుంది.
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+నేవా నది పరీవాహక ప్రాంతం 282,300 చదరపు కిలోమీటర్లు (109,000 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;నేవా నది అక్షాంశం(లాటిట్యూడ్) 59.9528, రేఖాంశం(లాంగిట్యూడ్) 31.0361.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Neva|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+నేవా నదికి గల ముఖ్యమైన ఉపనదులు మ్గ (నది), తోస్నా, ఇజోరా,ఓఖ్తా.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+[[రష్యన్ ఫెడరేషన్]]లోని లడోగా సరస్సులో నేవా నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;నేవా నది మూలం ఎత్తు 4.3 మీటర్లు (14 అడుగులు).&lt;ref name="wiki_link" /&gt;నేవా నది [[నెవా బే]]లో కలుస్తుంది. &lt;ref name="dbpedia_link" /&gt;నేవా నది 0 మీటర్లు (0 అడుగులు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+నేవా నది సముద్రంలో కలిసే స్థలం నోరు.&lt;ref name="dbpedia_link" /&gt;ఈ నది లోని నీరు క్షణముకు సగటు 2,628 ఘనపు మీటర్/సెకండ్ (92,800 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt; ఇప్పటి వరకు నమోదు అయినా రికార్డుల ప్రకారం నేవా నది లోని నీరు క్షణముకు గరిష్ట మోతాదు 4,550 క్యూబిక్ మీటర్లు (161,000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>నైల్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1945">
+            
+
+
+{{Infobox river
+| name = నైల్
+| image = Dhows_on_the_Nile.jpg
+| image_size = 300
+|image_caption =నైల్ నది
+| length=6650.0 కి.మీ.
+| discharge1_location= అస్వాన్
+| discharge1_min= 500 క్యూబిక్ మీటర్లు (18000 క్యూబిక్ అడుగులు)
+| discharge1_avg = 1,584 ఘనపు మీటర్/సెకండ్ (55,900 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 7,000 క్యూబిక్ మీటర్లు (250,000 క్యూబిక్ అడుగులు)
+| source1 = వైట్ నైలు
+| source1_elevation =2,400 మీటర్లు (7,900 అడుగులు) కి.మీ.
+| mouth= మెడిటరేనియన్ సముద్రం
+| mouth_location = నైలు డెల్టా, ఈజిప్ట్
+| basin_size = 3,349,000 చదరపు కిలోమీటర్లు (1,293,000 చదరపు మైళ్ళు)
+}}
+    
+నైల్ నది పొడవు 6650.0 కిలోమీటర్లు. &lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Nile|title=Nile|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+నైల్ నది పరీవాహక ప్రాంతం 3,349,000 చదరపు కిలోమీటర్లు (1,293,000 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;నైల్ నది అక్షాంశం(లాటిట్యూడ్) -2.28222, రేఖాంశం(లాంగిట్యూడ్) 29.3314.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Nile|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+ఈ నది మూలం ఎత్తు 2,400 మీటర్లు (7,900 అడుగులు).&lt;ref name="wiki_link" /&gt;నైల్ నది నైలు డెల్టా, ఈజిప్ట్ దగ్గర [[మెడిటరేనియన్ సముద్రం]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+నైల్ నది అస్వాన్ దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;నైల్ నది లోని నీరు క్షణముకు సగటు 1,584 ఘనపు మీటర్/సెకండ్ (55,900 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt; ఇప్పటి వరకు నమోదు అయినా రికార్డుల ప్రకారం నైల్ నది లోని నీరు క్షణముకు గరిష్ట మోతాదు 7,000 క్యూబిక్ మీటర్లు (250,000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 500 క్యూబిక్ మీటర్లు (18000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>నైజర్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2190">
+            
+
+
+{{Infobox river
+| name = నైజర్
+| image = Niger%2C_Niamey%2C_Pont_Kennedy_%281%29.jpg
+| image_size = 300
+|image_caption =నైజర్ నది
+| length=4184.0 కి.మీ.
+| discharge1_location= నైజర్ డెల్టా
+| discharge1_min= 500 క్యూబిక్ మీటర్లు (18000 క్యూబిక్ అడుగులు)
+| discharge1_avg = 1,091.692 ఘనపు మీటర్/సెకండ్ (38,552.7 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 27,600 క్యూబిక్ మీటర్లు (970,000 క్యూబిక్ అడుగులు)
+| source1 = గినియా హైలాండ్స్
+| source1_location = గినియా
+| mouth= అట్లాంటిక్ మహాసముద్రం
+| mouth_location = గల్ఫ్ ఆఫ్ గినియా, నైజీరియా
+| basin_size = 2,117,700 చదరపు కిలోమీటర్లు (817,600 చదరపు మైళ్ళు)
+| tributaries_left = బెన్యూ నది, అనంబ్రా నది
+| tributaries_right = బని నది, మెక్రూ నది
+}}
+    
+ఈ నది పొడవు 4184.0కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Niger_River|title=Niger|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+నైజర్ నది పరీవాహక ప్రాంతం 2,117,700 చదరపు కిలోమీటర్లు (817,600 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;నైజర్ నది అక్షాంశం(లాటిట్యూడ్) 11.0766, రేఖాంశం(లాంగిట్యూడ్) -9.31284.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Niger_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+నైజర్ నది ఎడమ ఉపనదులు బెన్యూ నది, అనంబ్రా నది.నైజర్ నది కుడి ఉపనదులు బని నది, మెక్రూ నది.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+గినియా హైలాండ్స్లోని గినియా దగ్గర నైజర్ నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;నైజర్ నది గల్ఫ్ ఆఫ్ గినియా, నైజీరియా దగ్గర [[అట్లాంటిక్ మహాసముద్రం]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+నైజర్ నది నైజర్ డెల్టా వద్ద సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది లోని నీరు క్షణముకు సగటు 1,091.692 ఘనపు మీటర్/సెకండ్ (38,552.7 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా గరిష్ట మోతాదు క్షణముకు 27,600 క్యూబిక్ మీటర్లు (970,000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 500 క్యూబిక్ మీటర్లు (18000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>నేపో</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2355">
+            
+
+
+{{Infobox river
+| name = నేపో
+| image = Napo_River.jpg
+| image_size = 300
+|image_caption =నేపో నది
+| length=1130.0 కి.మీ.
+| discharge1_location= మజాన్ , లోరెటో ప్రాంతం, పెరూ - 79,76 కి.మీ
+| discharge1_min= 3250 క్యూబిక్ మీటర్లు (115000 క్యూబిక్ అడుగులు)
+| discharge1_avg = 2,031 ఘనపు మీటర్/సెకండ్ (71,700 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 11,200 క్యూబిక్ మీటర్లు (400,000 క్యూబిక్ అడుగులు)
+| source1 = అండీస్‌లోని కోటోపాక్సీ
+| source1_location = ఈక్వెడార్
+| mouth= అమెజాన్ నది
+| mouth_location = ఇక్విటోస్, లోరెటో రీజియన్, పెరూ నుండి దిగువ
+| basin_size = 103,307.79 చదరపు కిలోమీటర్లు (39,887.36 చదరపు మైళ్ళు)
+| tributaries_left = అగ్వారికో నది, కోకా నది, టాంబోయాకు నది
+| tributaries_right = రియో మజాన్, యాసుని నది, కురారే నది, టిపుటినీ నది
+}}
+    
+ఈ నది పొడవు 1130.0కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Napo_River|title=Napo|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+నేపో నది పరీవాహక ప్రాంతం 103,307.79 చదరపు కిలోమీటర్లు (39,887.36 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) -0.666667, రేఖాంశం(లాంగిట్యూడ్) -78.4167.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Napo_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+అగ్వారికో నది, కోకా నది, టాంబోయాకు నది,రియో మజాన్, యాసుని నది, కురారే నది, టిపుటినీ నది మొదలగునవి నేపో నదికి ముఖ్యమైన ఉపనదులు.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+అండీస్‌లోని కోటోపాక్సీలోని ఈక్వెడార్ దగ్గర నేపో నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;నేపో నది ఇక్విటోస్, లోరెటో రీజియన్, పెరూ నుండి దిగువ దగ్గర [[అమెజాన్ నది]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+నేపో నది సముద్రంలో కలిసే స్థలం మజాన్ , లోరెటో ప్రాంతం, పెరూ - 79,76 కి.మీ.&lt;ref name="dbpedia_link" /&gt;ఈ నది లోని నీరు క్షణముకు సగటు 2,031 ఘనపు మీటర్/సెకండ్ (71,700 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt; ఇప్పటి వరకు నమోదు అయినా రికార్డుల ప్రకారం నేపో నది లోని నీరు క్షణముకు గరిష్ట మోతాదు 11,200 క్యూబిక్ మీటర్లు (400,000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 3250 క్యూబిక్ మీటర్లు (115000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>నానాయ్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1273">
+            
+
+
+{{Infobox river
+| name = నానాయ్
+| image = The_Amazon_meets_Rio_Nanay.jpg
+| image_size = 300
+|image_caption =నానాయ్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = పెరూ
+| subdivision_type3  = ప్రాంతం
+| subdivision_name3 =లోరెటో ప్రాంతం
+| length=315.0 కి.మీ.
+| discharge1_avg = 930 ఘనపు మీటర్/సెకండ్ (33,000 ఘనపు అడుగులు/సెకండ్)
+| mouth= అమెజాన్ నది
+| basin_size = 16,673.4 చదరపు కిలోమీటర్లు (6,437.6 చదరపు మైళ్ళు)
+}}
+    
+నానాయ్ నది [[పెరూ]] దేశమునకు చెందినది.ఈ నది మూల స్థానం నుండి దాదాపు 315.0 కిలోమీటర్లు దూరం [[లోరెటో ప్రాంతం]]లో ప్రవహిస్తుంది.
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+నానాయ్ నది పరీవాహక ప్రాంతం 16,673.4 చదరపు కిలోమీటర్లు (6,437.6 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) -3.7, రేఖాంశం(లాంగిట్యూడ్) -73.25.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Nanay_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+నానాయ్ నది [[అమెజాన్ నది]]లో కలుస్తుంది. &lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+ఈ నది లోని నీరు క్షణముకు సగటు 930 ఘనపు మీటర్/సెకండ్ (33,000 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>నీవే వాటర్వేగ్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1276">
+            
+
+
+{{Infobox river
+| name = నీవే వాటర్వేగ్
+| image = Maeslantkering.jpg
+| image_size = 300
+|image_caption =నీవే వాటర్వేగ్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = నెదర్లాండ్స్
+| length=20.0 కి.మీ.
+| source1 = న్యూవే మాస్
+| source1_location = మాస్లూయిస్
+| mouth= కొత్త జలమార్గం
+| mouth_location = హుక్ ఆఫ్ హాలండ్
+}}
+    
+నీవే వాటర్వేగ్ నది [[నెదర్లాండ్స్]] దేశానికి చెందినది.నీవే వాటర్వేగ్ నది ఇతర పేర్లు కొత్త జలమార్గం.నీవే వాటర్వేగ్ నది 20.0 కిలోమీటర్లు పొడవు ఉంటుంది.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Nieuwe_Waterweg|title=Nieuwe Waterweg|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+ఈ నది అక్షాంశం(లాటిట్యూడ్) 51.9419, రేఖాంశం(లాంగిట్యూడ్) 4.19139.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Nieuwe_Waterweg|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+[[నెదర్లాండ్స్]]లోని న్యూవే మాస్లోని మాస్లూయిస్ దగ్గర నీవే వాటర్వేగ్ నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది హుక్ ఆఫ్ హాలండ్ దగ్గర [[కొత్త జలమార్గం]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>ఒహాయో</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2530">
+            
+
+
+{{Infobox river
+| name = ఒహాయో
+| image = Ohio_River.jpg
+| image_size = 300
+|image_caption =ఒహాయో నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా
+| length=1578.77 కి.మీ.
+| discharge1_location= కైరో, ఇల్లినాయిస్
+| discharge1_avg = 281,000 ఘనపు అడుగులు/సెకండ్ (8,000 ఘనపు మీటర్/సెకండ్)
+| discharge1_max = 1,850,000 క్యూబిక్ అడుగులు (52,000 క్యూబిక్ మీటర్లు)
+| source1 = అల్లెఘేనీ నది, మోనోంగహేలా నది
+| source1_location = పాటర్ కౌంటీ, పెన్సిల్వేనియా
+| source1_elevation =2,240 అడుగులు (680 మీటర్లు) కి.మీ.
+| mouth= మిస్సిస్సిప్పి నది
+| mouth_location = బల్లార్డ్ కౌంటీ, కెంటుకీ
+| mouth_elevation =290 అడుగులు (88 మీటర్లు) కి.మీ.
+| basin_size = 189,422 చదరపు మైళ్ళు (490,600 చదరపు కిలోమీటర్లు)
+| tributaries_left = పెద్ద శాండీ నది (ఓహియో నది ఉపనది)
+| tributaries_right = బీవర్ నది (పెన్సిల్వాని
+}}
+    
+ఒహాయో నది [[యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా]] దేశమునకు చెందినది.ఒహాయో నది పొడవు 1578.77 కిలోమీటర్లు. &lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Ohio_River|title=Ohio|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+ఒహాయో నది 189,422 చదరపు మైళ్ళు (490,600 చదరపు కిలోమీటర్లు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఒహాయో నది అక్షాంశం(లాటిట్యూడ్) 41.8728, రేఖాంశం(లాంగిట్యూడ్) -77.875.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Ohio_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+ఒహాయో నది ఎడమ ఉపనదులు పెద్ద శాండీ నది (ఓహియో నది ఉపనది).ఒహాయో నది కుడి ఉపనదులు బీవర్ నది (పెన్సిల్వాని.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+ఒహాయో నది యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికాలోని అల్లెఘేనీ నది, మోనోంగహేలా నదిలోని పాటర్ కౌంటీ, పెన్సిల్వేనియా దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఒహాయో నది మూలం ఎత్తు 2,240 అడుగులు (680 మీటర్లు).&lt;ref name="wiki_link" /&gt;ఒహాయో నది బల్లార్డ్ కౌంటీ, కెంటుకీ దగ్గర [[మిస్సిస్సిప్పి నది]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది 290 అడుగులు (88 మీటర్లు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+ఒహాయో నది కైరో, ఇల్లినాయిస్ వద్ద సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఒహాయో నది లోని నీరు క్షణముకు సగటు 281,000 ఘనపు అడుగులు/సెకండ్ (8,000 ఘనపు మీటర్/సెకండ్).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా గరిష్ట మోతాదు క్షణముకు 1,850,000 క్యూబిక్ అడుగులు (52,000 క్యూబిక్ మీటర్లు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>పురుస్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1840">
+            
+
+
+{{Infobox river
+| name = పురుస్
+| image = Purus.jpg
+| image_size = 300
+|image_caption =పురుస్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = బ్రెజిల్, పెరూ
+| length=3382.0 కి.మీ.
+| discharge1_location= నోరు
+| discharge1_avg = 5,569 ఘనపు మీటర్/సెకండ్ (196,700 ఘనపు అడుగులు/సెకండ్)
+| source1 = కుజార్ ఆఫ్ కురియుజా నదుల సంగమం, అత్యంత సుదూర మూలం ఉజ్జాయింపు ప్రాంతం. కుజార్ నది యొక్క ప్రధాన జలాలు.
+| source1_location = పెరూ, ఉకాయాలి డిపార్ట్ మెంట్
+| source1_elevation =330 మీటర్లు (1,080 అడుగులు) కి.మీ.
+| basin_size = 371,042 చదరపు కిలోమీటర్లు (143,260 చదరపు మైళ్ళు)
+}}
+    
+పురుస్ నది [[బ్రెజిల్, పెరూ]] దేశానికి చెందినది.పురుస్ నది పొడవు 3382.0 కిలోమీటర్లు. &lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Purus_River|title=Purus|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+పురుస్ నది పరీవాహక ప్రాంతం 371,042 చదరపు కిలోమీటర్లు (143,260 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) -10.7489. ఈ నది రేఖాంశం(లాంగిట్యూడ్) -71.7872.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Purus_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+[[బ్రెజిల్, పెరూ]]లోని కుజార్ ఆఫ్ కురియుజా నదుల సంగమం, అత్యంత సుదూర మూలం ఉజ్జాయింపు ప్రాంతం. కుజార్ నది యొక్క ప్రధాన జలాలు.లోని పెరూ, ఉకాయాలి డిపార్ట్ మెంట్ దగ్గర పురుస్ నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;పురుస్ నది మూలం ఎత్తు 330 మీటర్లు (1,080 అడుగులు).&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+పురుస్ నది నోరు వద్ద సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;పురుస్ నది లోని నీరు క్షణముకు సగటు 5,569 ఘనపు మీటర్/సెకండ్ (196,700 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>పాస్తాజా</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1227">
+            
+
+
+{{Infobox river
+| name = పాస్తాజా
+| image = RioPastaza.jpg
+| image_size = 300
+|image_caption =పాస్తాజా నది
+| discharge1_avg = 2,769 ఘనపు మీటర్/సెకండ్ (97,800 ఘనపు అడుగులు/సెకండ్)
+| source1 = కోటోపాక్సీ ప్రావిన్స్
+| source1_elevation =4,570 మీటర్లు (14,990 అడుగులు) కి.మీ.
+| mouth_elevation =120 మీటర్లు (390 అడుగులు) కి.మీ.
+| basin_size = 39,504 చదరపు కిలోమీటర్లు (15,253 చదరపు మైళ్ళు)
+}}
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+పాస్తాజా నది 39,504 చదరపు కిలోమీటర్లు (15,253 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) -0.666667, రేఖాంశం(లాంగిట్యూడ్) -78.45.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Pastaza_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+ఈ నది మూలం ఎత్తు 4,570 మీటర్లు (14,990 అడుగులు).&lt;ref name="wiki_link" /&gt;పాస్తాజా నది 120 మీటర్లు (390 అడుగులు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+ఈ నది లోని నీరు క్షణముకు సగటు 2,769 ఘనపు మీటర్/సెకండ్ (97,800 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>రైన్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2261">
+            
+
+
+{{Infobox river
+| name = రైన్
+| image = Middle_Bridge%2C_Basel%2C_Switzerland.jpg
+| image_size = 300
+|image_caption =రైన్ నది
+| map = Peru_physical_map.svg.png
+| map_size = 300 px
+| map_caption = రైన్ నది పటం
+| subdivision_type3  = ప్రాంతం
+| subdivision_name3 =మధ్య , పశ్చిమ యూరోప్
+| length=1230.0 కి.మీ.
+| discharge1_min= 800 క్యూబిక్ మీటర్లు (28000 క్యూబిక్ అడుగులు)
+| discharge1_avg = 2,900 ఘనపు మీటర్/సెకండ్ (100,000 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 13,000 క్యూబిక్ మీటర్లు (460,000 క్యూబిక్ అడుగులు)
+| source1 = హింటెర్హీన్ (నది), వోర్డెర్ర్హీన్
+| source1_location = తోమసీ, సుర్సెల్వా, గ్రాబుండెన్, స్విట్జర్లాండ్
+| source1_elevation =2,345 మీటర్లు (7,694 అడుగులు) కి.మీ.
+| mouth= నార్త్ సీ
+| mouth_location = నెదర్లాండ్స్
+| mouth_elevation =0 మీటర్లు (0 అడుగులు) కి.మీ.
+| basin_size = 185,000 చదరపు కిలోమీటర్లు (71,000 చదరపు మైళ్ళు)
+}}
+    
+ఈ నది మూల స్థానం నుండి దాదాపు 1230.0 కిలోమీటర్లు దూరం [[మధ్య , పశ్చిమ యూరోప్]]లో ప్రవహిస్తుంది.
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+రైన్ నది పరీవాహక ప్రాంతం 185,000 చదరపు కిలోమీటర్లు (71,000 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) 46.6325. ఈ నది రేఖాంశం(లాంగిట్యూడ్) 8.67222.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Rhine|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+హింటెర్హీన్ (నది), వోర్డెర్ర్హీన్లోని తోమసీ, సుర్సెల్వా, గ్రాబుండెన్, స్విట్జర్లాండ్ దగ్గర రైన్ నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;రైన్ నది మూలం ఎత్తు 2,345 మీటర్లు (7,694 అడుగులు).&lt;ref name="wiki_link" /&gt;రైన్ నది నెదర్లాండ్స్ దగ్గర [[నార్త్ సీ]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది 0 మీటర్లు (0 అడుగులు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+రైన్ నది లోని నీరు క్షణముకు సగటు 2,900 ఘనపు మీటర్/సెకండ్ (100,000 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt; ఇప్పటి వరకు నమోదు అయినా రికార్డుల ప్రకారం రైన్ నది లోని నీరు క్షణముకు గరిష్ట మోతాదు 13,000 క్యూబిక్ మీటర్లు (460,000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 800 క్యూబిక్ మీటర్లు (28000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>క్లైడ్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1646">
+            
+
+
+{{Infobox river
+| name = క్లైడ్
+| image = Sunset_on_the_Clyde_%28geograph_3562321%29.jpg
+| image_size = 300
+|image_caption =క్లైడ్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = స్కాట్లాండ్
+| length=170.0 కి.మీ.
+| source1 = దక్షిణ లానార్క్‌షైర్‌లోని లోదర్ హిల్స్
+| source1_location = సౌత్ లానార్క్‌షైర్, స్కాట్లాండ్, యునైటెడ్ కింగ్‌డమ్
+| mouth= క్లైడ్ యొక్క ఫిర్త్
+| mouth_location = ఇన్వర్‌క్లైడ్, అర్గిల్, స్కాట్లాండ్, యునైటెడ్ కింగ్‌డమ్
+| basin_size = 4,000 చదరపు కిలోమీటర్లు (1,500 చదరపు మైళ్ళు)
+}}
+    
+క్లైడ్ నది [[స్కాట్లాండ్]] దేశమునకు చెందినది.క్లైడ్ నది 170.0 కిలోమీటర్లు పొడవు ఉంటుంది.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/River_Clyde|title=Clyde|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+క్లైడ్ నది 4,000 చదరపు కిలోమీటర్లు (1,500 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;క్లైడ్ నది అక్షాంశం(లాటిట్యూడ్) 55.4066. క్లైడ్ నది రేఖాంశం(లాంగిట్యూడ్) -3.65247.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Category:River_Clyde|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+[[స్కాట్లాండ్]]లోని దక్షిణ లానార్క్‌షైర్‌లోని లోదర్ హిల్స్లోని సౌత్ లానార్క్‌షైర్, స్కాట్లాండ్, యునైటెడ్ కింగ్‌డమ్ దగ్గర క్లైడ్ నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;క్లైడ్ నది ఇన్వర్‌క్లైడ్, అర్గిల్, స్కాట్లాండ్, యునైటెడ్ కింగ్‌డమ్ దగ్గర [[క్లైడ్ యొక్క ఫిర్త్]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>సెనెగల్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1403">
+            
+
+
+{{Infobox river
+| name = సెనెగల్
+| image = Senegal_River_Saint_Louis.jpg
+| image_size = 300
+|image_caption =సెనెగల్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = సెనెగల్, మౌరిటానియా, మాలి
+| length=1086.0 కి.మీ.
+| discharge1_avg = 650 ఘనపు మీటర్/సెకండ్ (23,000 ఘనపు అడుగులు/సెకండ్)
+| mouth_location = అట్లాంటిక్ మహాసముద్రం
+| basin_size = 337,000 చదరపు కిలోమీటర్లు (130,000 చదరపు మైళ్ళు)
+}}
+    
+సెనెగల్ నది [[సెనెగల్, మౌరిటానియా, మాలి]] దేశమునకు చెందినది.ఈ నది పొడవు 1086.0కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Senegal_River|title=Senegal|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+సెనెగల్ నది పరీవాహక ప్రాంతం 337,000 చదరపు కిలోమీటర్లు (130,000 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;సెనెగల్ నది అక్షాంశం(లాటిట్యూడ్) 15.7881, రేఖాంశం(లాంగిట్యూడ్) -16.5289.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Category:Senegal_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+ఈ నది అట్లాంటిక్ మహాసముద్రం దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+ఈ నది లోని నీరు క్షణముకు సగటు 650 ఘనపు మీటర్/సెకండ్ (23,000 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>స్నేక్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2957">
+            
+
+
+{{Infobox river
+| name = స్నేక్
+| image = Adams_The_Tetons_and_the_Snake_River.jpg
+| image_size = 300
+|image_caption =స్నేక్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా
+| subdivision_type2  = రాష్ట్రం
+| subdivision_name2  = వ్యోమింగ్, ఇడాహో, ఒరెగాన్, వాషింగ్టన్
+| subdivision_type3  = ప్రాంతం
+| subdivision_name3 =పసిఫిక్ వాయవ్యం
+| length=1734.87 కి.మీ.
+| discharge1_location= ఐస్ హార్బర్ డ్యామ్, వాషింగ్టన్, నోటి పైన
+| discharge1_min= 2700 క్యూబిక్ అడుగులు (76 క్యూబిక్ మీటర్లు)
+| discharge1_avg = 54,830 ఘనపు అడుగులు/సెకండ్ (1,553 ఘనపు మీటర్/సెకండ్)
+| discharge1_max = 409,000 క్యూబిక్ అడుగులు (11,600 క్యూబిక్ మీటర్లు)
+| source1 = రాకీ పర్వతాలు
+| source1_location = వ్యోమింగ్
+| source1_elevation =9,206 అడుగులు (2,806 మీటర్లు) కి.మీ.
+| mouth= కొలంబియా నది
+| mouth_location = వాలా వల్లా కౌంటీలు, బర్బాంక్, వాషింగ్టన్ సమీపంలో
+| mouth_elevation =358 అడుగులు (109 మీటర్లు) కి.మీ.
+| basin_size = 108,000 చదరపు మైళ్ళు (280,000 చదరపు కిలోమీటర్లు)
+| tributaries_left = బ్రూనో నది
+| tributaries_right = మలాడ్ నది (గుడింగ్ కౌంటీ, ఇడాహో)
+}}
+    
+స్నేక్ నది [[యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా]] దేశమునకు చెందినది.స్నేక్ నది ఇతర పేర్లు లూయిస్ నది, షోషోన్ నది, మాడ్ నది, సప్టిన్ నది, యమ్-పా-పా, లూయిస్ ఫోర్క్.వ్యోమింగ్, ఇడాహో, ఒరెగాన్, వాషింగ్టన్ రాష్ట్రాలలో స్నేక్ నది ప్రవహిస్తుంది.ఈ నది మూల స్థానం నుండి దాదాపు 1734.87 కిలోమీటర్లు దూరం [[పసిఫిక్ వాయవ్యం]]లో ప్రవహిస్తుంది.
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+స్నేక్ నది 108,000 చదరపు మైళ్ళు (280,000 చదరపు కిలోమీటర్లు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;స్నేక్ నది అక్షాంశం(లాటిట్యూడ్) 44.1399, రేఖాంశం(లాంగిట్యూడ్) -110.219.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Snake_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+బ్రూనో నది,మలాడ్ నది (గుడింగ్ కౌంటీ, ఇడాహో) మొదలగునవి స్నేక్ నదికి ముఖ్యమైన ఉపనదులు.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+స్నేక్ నది యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికాలోని రాకీ పర్వతాలులోని వ్యోమింగ్ దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;స్నేక్ నది మూలం ఎత్తు 9,206 అడుగులు (2,806 మీటర్లు).&lt;ref name="wiki_link" /&gt;ఈ నది వాలా వల్లా కౌంటీలు, బర్బాంక్, వాషింగ్టన్ సమీపంలో దగ్గర [[కొలంబియా నది]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది 358 అడుగులు (109 మీటర్లు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+స్నేక్ నది ఐస్ హార్బర్ డ్యామ్, వాషింగ్టన్, నోటి పైన దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;స్నేక్ నది లోని నీరు క్షణముకు సగటు 54,830 ఘనపు అడుగులు/సెకండ్ (1,553 ఘనపు మీటర్/సెకండ్).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా గరిష్ట మోతాదు క్షణముకు 409,000 క్యూబిక్ అడుగులు (11,600 క్యూబిక్ మీటర్లు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 2700 క్యూబిక్ అడుగులు (76 క్యూబిక్ మీటర్లు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>టైబర్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1567">
+            
+
+
+{{Infobox river
+| name = టైబర్
+| image = PonteSantAngeloRom.jpg
+| image_size = 300
+|image_caption =టైబర్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = ఇటలీ
+| length=406.0 కి.మీ.
+| discharge1_avg = 239 ఘనపు మీటర్/సెకండ్ (8,400 ఘనపు అడుగులు/సెకండ్)
+| source1_location = ఫుమైయోలో పర్వతం
+| source1_elevation =1,268 మీటర్లు (4,160 అడుగులు) కి.మీ.
+| mouth_location = టైర్హేనియన్ సముద్రం
+| basin_size = 17,375 చదరపు కిలోమీటర్లు (6,709 చదరపు మైళ్ళు)
+}}
+    
+టైబర్ నది [[ఇటలీ]] దేశానికి చెందినది.టైబర్ నది పొడవు 406.0 కిలోమీటర్లు. &lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Tiber|title=Tiber|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+టైబర్ నది పరీవాహక ప్రాంతం 17,375 చదరపు కిలోమీటర్లు (6,709 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;టైబర్ నది అక్షాంశం(లాటిట్యూడ్) 41.7405, రేఖాంశం(లాంగిట్యూడ్) 12.2334.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Category:Tiber|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+[[ఇటలీ]]లోని ఫుమైయోలో పర్వతం దగ్గర టైబర్ నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది మూలం ఎత్తు 1,268 మీటర్లు (4,160 అడుగులు).&lt;ref name="wiki_link" /&gt;ఈ నది టైర్హేనియన్ సముద్రం దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+ఈ నది లోని నీరు క్షణముకు సగటు 239 ఘనపు మీటర్/సెకండ్ (8,400 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>ట్రోంబేటాస్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1949">
+            
+
+
+{{Infobox river
+| name = ట్రోంబేటాస్
+| image = Oriximina.jpg
+| image_size = 300
+|image_caption =ట్రోంబేటాస్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = బ్రెజిల్
+| subdivision_type2  = రాష్ట్రం
+| subdivision_name2  = పియర్
+| length=760.0 కి.మీ.
+| discharge1_avg = 3,437 ఘనపు మీటర్/సెకండ్ (121,400 ఘనపు అడుగులు/సెకండ్)
+| source1 = అనము నది ఆఫ్ పోనా నది సంగమం
+| source1_location = బ్రెజిల్, పారా
+| mouth= అమెజాన్ నది
+| mouth_location = బ్రెజిల్, పారా
+| basin_size = 135,238 చదరపు కిలోమీటర్లు (52,216 చదరపు మైళ్ళు)
+| tributaries_left = , పారు డి ఓస్టె నది
+| tributaries_right = మపుయెరా నది, కాచోరో నది (పారా)
+}}
+    
+ట్రోంబేటాస్ నది [[బ్రెజిల్]] దేశమునకు చెందినది.పియర్ రాష్ట్రాలలో ట్రోంబేటాస్ నది ప్రవహిస్తుంది.ఈ నది పొడవు 760.0కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Trombetas_River|title=Trombetas|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+ట్రోంబేటాస్ నది పరీవాహక ప్రాంతం 135,238 చదరపు కిలోమీటర్లు (52,216 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;ట్రోంబేటాస్ నది అక్షాంశం(లాటిట్యూడ్) -1.88111, రేఖాంశం(లాంగిట్యూడ్) -55.6361.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Trombetas_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+ట్రోంబేటాస్ నది ఎడమ ఉపనదులు , పారు డి ఓస్టె నది.ట్రోంబేటాస్ నది కుడి ఉపనదులు మపుయెరా నది, కాచోరో నది (పారా).&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+[[బ్రెజిల్]]లోని అనము నది ఆఫ్ పోనా నది సంగమంలోని బ్రెజిల్, పారా దగ్గర ట్రోంబేటాస్ నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది బ్రెజిల్, పారా దగ్గర [[అమెజాన్ నది]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+ఈ నది లోని నీరు క్షణముకు సగటు 3,437 ఘనపు మీటర్/సెకండ్ (121,400 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>టైగర్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1445">
+            
+
+
+{{Infobox river
+| name = టైగర్
+| image = IslaenTigreyLanchadePasajeros-03381.jpg
+| image_size = 300
+|image_caption =టైగర్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = ఈక్వెడార్, పెరూ
+| length=760.0 కి.మీ.
+| discharge1_avg = 2,716.4 ఘనపు మీటర్/సెకండ్
+| source1 = కునాంబో ఆఫ్ పింటోయాకు నదుల సంగమం
+| mouth= మారనాన్ నది
+| basin_size = 45,073 చదరపు కిలోమీటర్లు (17,403 చదరపు మైళ్ళు)
+}}
+    
+టైగర్ నది [[ఈక్వెడార్, పెరూ]] దేశమునకు చెందినది.ఈ నది పొడవు 760.0కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Tigre_River|title=Tigre|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+టైగర్ నది పరీవాహక ప్రాంతం 45,073 చదరపు కిలోమీటర్లు (17,403 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;టైగర్ నది అక్షాంశం(లాటిట్యూడ్) -4.48528. టైగర్ నది రేఖాంశం(లాంగిట్యూడ్) -74.0664.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Tigre_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+టైగర్ నది [[ఈక్వెడార్, పెరూ]]లోని కునాంబో ఆఫ్ పింటోయాకు నదుల సంగమంలో  మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;టైగర్ నది [[మారనాన్ నది]]లో కలుస్తుంది. &lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+టైగర్ నది లోని నీరు క్షణముకు సగటు 2,716.4 ఘనపు మీటర్/సెకండ్.&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>టిగ్రిస్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2118">
+            
+
+
+{{Infobox river
+| name = టిగ్రిస్
+| image = Tigris_River_in_Baghdad_%282016%29.jpg
+| image_size = 300
+|image_caption =టిగ్రిస్ నది
+| map = Relief_map_of_Texas.png
+| map_size = 300 px
+| map_caption = టిగ్రిస్ నది పటం
+| subdivision_type1  = దేశం
+| subdivision_name1  = టర్కీ, సిరియా, ఇరాక్
+| length=1900.0 కి.మీ.
+| discharge1_location= బాగ్దాద్
+| discharge1_min= 337 క్యూబిక్ మీటర్లు (11900 క్యూబిక్ అడుగులు)
+| discharge1_avg = 1,014 ఘనపు మీటర్/సెకండ్ (35,800 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 2,779 క్యూబిక్ మీటర్లు (98,100 క్యూబిక్ అడుగులు)
+| source1 = హజార్ సరస్సు
+| source1_elevation =1,150 మీటర్లు (3,770 అడుగులు) కి.మీ.
+| mouth= షట్ అల్-అరబ్
+| mouth_location = బస్రా గవర్నరేట్, ఇరాక్, అల్-ఖుర్నా
+| basin_size = 375,000 చదరపు కిలోమీటర్లు (145,000 చదరపు మైళ్ళు)
+| tributaries_left = గార్జాన్ నది, గ్రేట్ జాబ్
+| tributaries_right = థార్థర్ సరస్సు
+}}
+    
+టిగ్రిస్ నది [[టర్కీ, సిరియా, ఇరాక్]] దేశానికి చెందినది.టిగ్రిస్ నది 1900.0 కిలోమీటర్లు పొడవు ఉంటుంది.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Tigris|title=Tigris|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+టిగ్రిస్ నది పరీవాహక ప్రాంతం 375,000 చదరపు కిలోమీటర్లు (145,000 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;
+    
+==నది ఉపనదులు==
+
+   
+==నది ప్రవాహం==
+టిగ్రిస్ నది [[టర్కీ, సిరియా, ఇరాక్]]లోని హజార్ సరస్సులో  మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది మూలం ఎత్తు 1,150 మీటర్లు (3,770 అడుగులు).&lt;ref name="wiki_link" /&gt;టిగ్రిస్ నది బస్రా గవర్నరేట్, ఇరాక్, అల్-ఖుర్నా దగ్గర [[షట్ అల్-అరబ్]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+టిగ్రిస్ నది బాగ్దాద్ దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;టిగ్రిస్ నది లోని నీరు క్షణముకు సగటు 1,014 ఘనపు మీటర్/సెకండ్ (35,800 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా గరిష్ట మోతాదు క్షణముకు 2,779 క్యూబిక్ మీటర్లు (98,100 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 337 క్యూబిక్ మీటర్లు (11900 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>ఉచయాలి</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2557">
+            
+
+
+{{Infobox river
+| name = ఉచయాలి
+| image = Atalaya_%28Peru%29_Rios_Tambo%2BUcayali.jpg
+| image_size = 300
+|image_caption =ఉచయాలి నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = పెరూ
+| length=2238.0 కి.మీ.
+| discharge1_location= పెరూ, రెక్వెనా ప్రావిన్స్
+| discharge1_min= 3000 క్యూబిక్ మీటర్లు (110000 క్యూబిక్ అడుగులు)
+| discharge1_avg = 8,931.2 ఘనపు మీటర్/సెకండ్ (315,400 ఘనపు అడుగులు/సెకండ్)
+| discharge1_max = 28,000 క్యూబిక్ మీటర్లు (990,000 క్యూబిక్ అడుగులు)
+| source1 = టాంబో ఆఫ్ ఉరుబాంబ నదుల సంగమం
+| source1_location = పెరూ, అతలయ, ఉకాయాలి, డిపార్ట్‌మెంట్ ఆఫ్ ఉకాయాలి
+| mouth= అమెజాన్ నది
+| mouth_location = మారనాన్ నది, లోరెటో, పెరూతో సంగమం
+| basin_size = 351,549 చదరపు కిలోమీటర్లు (135,734 చదరపు మైళ్ళు)
+| tributaries_left = టాంబో నది (పెరూ), అగ్వేటియా నది, పిస్క్వి నది, పచిటియా నది, కుషాబటే నది
+| tributaries_right = ఉరుబాంబ నది, టపిచే నది, తమయ నది
+}}
+    
+ఉచయాలి నది [[పెరూ]] దేశమునకు చెందినది.ఈ నది పొడవు 2238.0కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Ucayali_River|title=Ucayali|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+ఉచయాలి నది పరీవాహక ప్రాంతం 351,549 చదరపు కిలోమీటర్లు (135,734 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;ఉచయాలి నది అక్షాంశం(లాటిట్యూడ్) -8.59188. ఉచయాలి నది రేఖాంశం(లాంగిట్యూడ్) -74.3665.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Ucayali_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+టాంబో నది (పెరూ), అగ్వేటియా నది, పిస్క్వి నది, పచిటియా నది, కుషాబటే నది,ఉరుబాంబ నది, టపిచే నది, తమయ నది మొదలగునవి ఉచయాలి నదికి ముఖ్యమైన ఉపనదులు.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+[[పెరూ]]లోని టాంబో ఆఫ్ ఉరుబాంబ నదుల సంగమంలోని పెరూ, అతలయ, ఉకాయాలి, డిపార్ట్‌మెంట్ ఆఫ్ ఉకాయాలి దగ్గర ఉచయాలి నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఉచయాలి నది మారనాన్ నది, లోరెటో, పెరూతో సంగమం దగ్గర [[అమెజాన్ నది]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+ఉచయాలి నది సముద్రంలో కలిసే స్థలం పెరూ, రెక్వెనా ప్రావిన్స్.&lt;ref name="dbpedia_link" /&gt;ఉచయాలి నది లోని నీరు క్షణముకు సగటు 8,931.2 ఘనపు మీటర్/సెకండ్ (315,400 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా గరిష్ట మోతాదు క్షణముకు 28,000 క్యూబిక్ మీటర్లు (990,000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 3000 క్యూబిక్ మీటర్లు (110000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>క్షింగు</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1480">
+            
+
+
+{{Infobox river
+| name = క్షింగు
+| image = Rio_Xingu.jpg
+| image_size = 300
+|image_caption =క్షింగు నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = బ్రెజిల్
+| length=1640.0 కి.మీ.
+| discharge1_avg = 4,627 ఘనపు మీటర్/సెకండ్ (163,400 ఘనపు అడుగులు/సెకండ్)
+| mouth= అమెజాన్ నది
+| basin_size = 520,300 చదరపు కిలోమీటర్లు (200,900 చదరపు మైళ్ళు)
+| tributaries_left = ఇరిరి నది, పార్డో నది (జింగు)
+}}
+    
+క్షింగు నది [[బ్రెజిల్]] దేశమునకు చెందినది.ఈ నది పొడవు 1640.0కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Xingu_River|title=Xingu|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+క్షింగు నది పరీవాహక ప్రాంతం 520,300 చదరపు కిలోమీటర్లు (200,900 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) -1.53306, రేఖాంశం(లాంగిట్యూడ్) -52.2417.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Xingu_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+ఇరిరి నది, పార్డో నది (జింగు),nan మొదలగునవి క్షింగు నదికి ముఖ్యమైన ఉపనదులు.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+ఈ నది [[అమెజాన్ నది]]లో కలుస్తుంది. &lt;ref name="dbpedia_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+క్షింగు నది లోని నీరు క్షణముకు సగటు 4,627 ఘనపు మీటర్/సెకండ్ (163,400 ఘనపు అడుగులు/సెకండ్).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>యుకాన్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2579">
+            
+
+
+{{Infobox river
+| name = యుకాన్
+| image = Ca%C3%B1%C3%B3n_Miles%2C_Yuk%C3%B3n%2C_Canad%C3%A1%2C_2017-08-26%2C_DD_130-132_PAN.jpg
+| image_size = 300
+|image_caption =యుకాన్ నది
+| subdivision_type2  = రాష్ట్రం
+| subdivision_name2  = అలాస్కా
+| discharge1_location= పైలట్ స్టేషన్, అలాస్కా, యూ.ఎస్
+| discharge1_min= 340 క్యూబిక్ మీటర్లు (12000 క్యూబిక్ అడుగులు)
+| discharge1_avg = 6,800 ఘనపు మీటర్/సెకండ్
+| discharge1_max = 24,600 క్యూబిక్ మీటర్లు (870,000 క్యూబిక్ అడుగులు)
+| source1 = అట్లిన్ సరస్సు వద్ద లెవెల్లిన్ గ్లేసియర్
+| source1_location = అట్లిన్ జిల్లా, బ్రిటిష్ కొలంబియా, కెనడా
+| source1_elevation =669 మీటర్లు (2,195 అడుగులు) కి.మీ.
+| mouth= బేరింగ్ సముద్రం
+| mouth_location = కుసిల్వాక్, అలాస్కా,యుఎస్
+| mouth_elevation =0 మీటర్లు (0 అడుగులు) కి.మీ.
+| basin_size = 833,232 చదరపు కిలోమీటర్లు (321,713 చదరపు మైళ్ళు)
+| tributaries_left = ఇన్నోకో నది, వైట్ రివర్ (యుకాన్), తననా నది
+| tributaries_right = టాగిష్ నది, క్లోన్డికే నది, టెస్లిన్ నది
+}}
+    
+యుకాన్ నది అలాస్కా రాష్ట్రాలలో ప్రవహిస్తుంది.
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+యుకాన్ నది పరీవాహక ప్రాంతం 833,232 చదరపు కిలోమీటర్లు (321,713 చదరపు మైళ్ళు) చదరపు కిలోమీటర్లు.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) 59.1667, రేఖాంశం(లాంగిట్యూడ్) -133.833.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Yukon_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+ఇన్నోకో నది, వైట్ రివర్ (యుకాన్), తననా నది,టాగిష్ నది, క్లోన్డికే నది, టెస్లిన్ నది మొదలగునవి యుకాన్ నదికి ముఖ్యమైన ఉపనదులు.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+యుకాన్ నది అట్లిన్ సరస్సు వద్ద లెవెల్లిన్ గ్లేసియర్లోని అట్లిన్ జిల్లా, బ్రిటిష్ కొలంబియా, కెనడా దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది మూలం ఎత్తు 669 మీటర్లు (2,195 అడుగులు).&lt;ref name="wiki_link" /&gt;యుకాన్ నది కుసిల్వాక్, అలాస్కా,యుఎస్ దగ్గర [[బేరింగ్ సముద్రం]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది 0 మీటర్లు (0 అడుగులు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+యుకాన్ నది పైలట్ స్టేషన్, అలాస్కా, యూ.ఎస్ వద్ద సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;యుకాన్ నది లోని నీరు క్షణముకు సగటు 6,800 ఘనపు మీటర్/సెకండ్.&lt;ref name="wiki_link" /&gt; ఇప్పటి వరకు నమోదు అయినా రికార్డుల ప్రకారం యుకాన్ నది లోని నీరు క్షణముకు గరిష్ట మోతాదు 24,600 క్యూబిక్ మీటర్లు (870,000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 340 క్యూబిక్ మీటర్లు (12000 క్యూబిక్ అడుగులు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>శక్రమెంటో</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="3296">
+            
+
+
+{{Infobox river
+| name = శక్రమెంటో
+| image = Sacramento_River.jpg
+| image_size = 300
+|image_caption =శక్రమెంటో నది
+| map = Bcamazonica.jpg
+| map_size = 300 px
+| map_caption = శక్రమెంటో నది పటం
+| subdivision_type1  = దేశం
+| subdivision_name1  = యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా
+| subdivision_type2  = రాష్ట్రం
+| subdivision_name2  = కాలిఫోర్నియా
+| length=643.738 కి.మీ.
+| discharge1_location= శాక్రమెంటో సమీపంలో, సి.ఏ
+| discharge1_min= 3970 క్యూబిక్ అడుగులు (112 క్యూబిక్ మీటర్లు)
+| discharge1_avg = 28,139 ఘనపు అడుగులు/సెకండ్ (796.8 ఘనపు మీటర్/సెకండ్)
+| discharge1_max = 489,000 క్యూబిక్ అడుగులు (13,800 క్యూబిక్ మీటర్లు)
+| source1 = - పసిఫిక్ ఫిషరీ మేనేజ్‌మెంట్ కౌన్సిల్, 2008, మిడిల్ అండ్ సౌత్ ఫోర్క్స్ సంగమం
+| source1_location = మౌంట్ శాస్తా సమీపంలో, సిస్కీయు కౌంటీ
+| source1_elevation =3,674 అడుగులు (1,120 మీటర్లు) కి.మీ.
+| mouth= సుయిసన్ బే
+| mouth_location = కాంట్రా కోస్టా-సోలానో కౌంటీ లైన్
+| mouth_elevation =0 అడుగులు (0 మీటర్లు) కి.మీ.
+| basin_size = 26,500 చదరపు మైళ్ళు (69,000 చదరపు కిలోమీటర్లు)
+| tributaries_left = ఫెదర్ రివర్, డీర్ క్రీక్ (టెహామా కౌంటీ, కాలిఫోర్నీ
+| tributaries_right = కాటన్‌వుడ్ క్రీక్ (శాక్రమెంటో నది ఉపనది), స్టోనీ క్రీక్ (శాక్రమెంటో నది ఉపనది)
+}}
+    
+శక్రమెంటో నది [[యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా]] దేశమునకు చెందినది.శక్రమెంటో నది ఇతర పేర్లు రియో డెల్ శాంటిసిమో శాక్రమెంటో.కాలిఫోర్నియా రాష్ట్రాలలో శక్రమెంటో నది ప్రవహిస్తుంది.ఈ నది పొడవు 643.738కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Sacramento_River|title=Sacramento|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+శక్రమెంటో నది 26,500 చదరపు మైళ్ళు (69,000 చదరపు కిలోమీటర్లు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;శక్రమెంటో నది అక్షాంశం(లాటిట్యూడ్) 41.2733. శక్రమెంటో నది రేఖాంశం(లాంగిట్యూడ్) -122.401.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Sacramento_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+శక్రమెంటో నది ఎడమ ఉపనదులు ఫెదర్ రివర్, డీర్ క్రీక్ (టెహామా కౌంటీ, కాలిఫోర్నీ.శక్రమెంటో నది కుడి ఉపనదులు కాటన్‌వుడ్ క్రీక్ (శాక్రమెంటో నది ఉపనది), స్టోనీ క్రీక్ (శాక్రమెంటో నది ఉపనది).&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+[[యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా]]లోని - పసిఫిక్ ఫిషరీ మేనేజ్‌మెంట్ కౌన్సిల్, 2008, మిడిల్ అండ్ సౌత్ ఫోర్క్స్ సంగమంలోని మౌంట్ శాస్తా సమీపంలో, సిస్కీయు కౌంటీ దగ్గర శక్రమెంటో నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది మూలం ఎత్తు 3,674 అడుగులు (1,120 మీటర్లు).&lt;ref name="wiki_link" /&gt;శక్రమెంటో నది కాంట్రా కోస్టా-సోలానో కౌంటీ లైన్ దగ్గర [[సుయిసన్ బే]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;శక్రమెంటో నది 0 అడుగులు (0 మీటర్లు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+శక్రమెంటో నది సముద్రంలో కలిసే స్థలం శాక్రమెంటో సమీపంలో, సి.ఏ.&lt;ref name="dbpedia_link" /&gt;ఈ నది లోని నీరు క్షణముకు సగటు 28,139 ఘనపు అడుగులు/సెకండ్ (796.8 ఘనపు మీటర్/సెకండ్). &lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా గరిష్ట మోతాదు క్షణముకు 489,000 క్యూబిక్ అడుగులు (13,800 క్యూబిక్ మీటర్లు).&lt;ref name="wiki_link" /&gt;ఇప్పటి వరకు నమోదు అయినా కనిష్ట మోతాదు క్షణముకు 3970 క్యూబిక్ అడుగులు (112 క్యూబిక్ మీటర్లు).&lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>వీజర్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2102">
+            
+
+
+{{Infobox river
+| name = వీజర్
+| image = Weser2.jpg
+| image_size = 300
+|image_caption =వీజర్ నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = జర్మనీ
+| length=452.0 కి.మీ.
+| discharge1_avg = 327 ఘనపు మీటర్/సెకండ్ (11,500 ఘనపు అడుగులు/సెకండ్)
+| source1_location = హాన్‌లో ఫుల్డా మరియు వెర్రా నదుల సంగమం. ముండెన్
+| source1_elevation =116 మీటర్లు (381 అడుగులు) కి.మీ.
+| mouth= వాడెన్ సముద్రం
+| mouth_location = బ్రెమెర్‌హావెన్ మరియు నార్డెన్‌హామ్ మధ్య
+| mouth_elevation =0 మీటర్లు (0 అడుగులు) కి.మీ.
+| basin_size = 46,306 చదరపు కిలోమీటర్లు (17,879 చదరపు మైళ్ళు)
+| tributaries_left = వెర్రే, హంటే, ఎమ్మెర్, డీమెల్
+| tributaries_right = అల్లెర్ (జర్మనీ), లెసమ్
+}}
+    
+వీజర్ నది [[జర్మనీ]] దేశమునకు చెందినది.వీజర్ నది ఇతర పేర్లు వెర్సర్.ఈ నది పొడవు 452.0కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Weser|title=Weser|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+వీజర్ నది 46,306 చదరపు కిలోమీటర్లు (17,879 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) 51.4214. ఈ నది రేఖాంశం(లాంగిట్యూడ్) 9.64806.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Weser|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+వెర్రే, హంటే, ఎమ్మెర్, డీమెల్,అల్లెర్ (జర్మనీ), లెసమ్ మొదలగునవి వీజర్ నదికి ముఖ్యమైన ఉపనదులు.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+[[జర్మనీ]]లోని హాన్‌లో ఫుల్డా మరియు వెర్రా నదుల సంగమం. ముండెన్ దగ్గర వీజర్ నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;వీజర్ నది మూలం ఎత్తు 116 మీటర్లు (381 అడుగులు).&lt;ref name="wiki_link" /&gt;ఈ నది బ్రెమెర్‌హావెన్ మరియు నార్డెన్‌హామ్ మధ్య దగ్గర [[వాడెన్ సముద్రం]]లో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది 0 మీటర్లు (0 అడుగులు) ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+ఈ నది లోని నీరు క్షణముకు సగటు 327 ఘనపు మీటర్/సెకండ్ (11,500 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>చికాగో</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1312">
+            
+
+
+{{Infobox river
+| name = చికాగో
+| image = Chicago_River_5.jpg
+| image_size = 300
+|image_caption =చికాగో నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా
+| subdivision_type2  = రాష్ట్రం
+| subdivision_name2  = ఇల్లినాయిస్
+| length=251.058 కి.మీ.
+| source1 = మిచిగాన్ సరస్సు
+| tributaries_left = బబ్లీ క్రీక్
+| tributaries_right = ఉత్తర శాఖ చికాగో నది
+}}
+    
+చికాగో నది [[యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా]] దేశానికి చెందినది.ఇల్లినాయిస్ రాష్ట్రాలలో చికాగో నది ప్రవహిస్తుంది.ఈ నది పొడవు 251.058కిలోమీటర్లు.&lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Chicago_River|title=Chicago|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+ఈ నది అక్షాంశం(లాటిట్యూడ్) 41.8864, రేఖాంశం(లాంగిట్యూడ్) -87.6375.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Chicago_River|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+చికాగో నదికి గల ముఖ్యమైన ఉపనదులు బబ్లీ క్రీక్,ఉత్తర శాఖ చికాగో నది.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+[[యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా]]లోని మిచిగాన్ సరస్సులో చికాగో నది మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>వెర్రా</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2203">
+            
+
+
+{{Infobox river
+| name = వెర్రా
+| image = Werra_bei_Werleshausen.jpg
+| image_size = 300
+|image_caption =వెర్రా నది
+| subdivision_type1  = దేశం
+| subdivision_name1  = జర్మనీ
+| length=299.6 కి.మీ.
+| discharge1_location= మెయినింగెన్‌లోని గేజ్ వద్ద
+| discharge1_avg = 46.5 ఘనపు మీటర్/సెకండ్ (1,640 ఘనపు అడుగులు/సెకండ్)
+| source1_location = ఎసెల్స్ బర్గ్ మరియు బ్లెస్ బర్గ్ లపై
+| source1_elevation =797 మీటర్లు కి.మీ.
+| mouth_location = హాన్‌లోని ఫుల్డాతో సంగమం. వెసెర్‌ను రూపొందించడానికి ముండెన్
+| mouth_elevation =116.5 మీటర్లు కి.మీ.
+| basin_size = 5,496 చదరపు కిలోమీటర్లు (2,122 చదరపు మైళ్ళు)
+| tributaries_left = వెహ్రే, ఫెల్డా (వెర్, ఉల్స్టర్ (నది)
+| tributaries_right = గుర్రం, హాసెల్ (వెర్, ష్లూస్
+}}
+    
+వెర్రా నది [[జర్మనీ]] దేశమునకు చెందినది.వెర్రా నది పొడవు 299.6 కిలోమీటర్లు. &lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Werra|title=Werra|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+వెర్రా నది 5,496 చదరపు కిలోమీటర్లు (2,122 చదరపు మైళ్ళు) చదరపు కిలోమీటర్ల పరీవాహక ప్రాంతం కలిగి ఉంటుంది.&lt;ref name="wiki_link" /&gt;ఈ నది అక్షాంశం(లాటిట్యూడ్) 50.4997, రేఖాంశం(లాంగిట్యూడ్) 10.9648.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Werra|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+    
+==నది ఉపనదులు==
+వెర్రా నది ఎడమ ఉపనదులు వెహ్రే, ఫెల్డా (వెర్, ఉల్స్టర్ (నది).వెర్రా నది కుడి ఉపనదులు గుర్రం, హాసెల్ (వెర్, ష్లూస్.&lt;ref name="dbpedia_link" /&gt;
+   
+==నది ప్రవాహం==
+వెర్రా నది [[జర్మనీ]]లోని ఎసెల్స్ బర్గ్ మరియు బ్లెస్ బర్గ్ లపై దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది మూలం ఎత్తు 797 మీటర్లు.&lt;ref name="wiki_link" /&gt;ఈ నది హాన్‌లోని ఫుల్డాతో సంగమం. వెసెర్‌ను రూపొందించడానికి ముండెన్ దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;వెర్రా నది 116.5 మీటర్లు ఎత్తునుంచి సముద్రంలో కలుస్తుంది.&lt;ref name="wiki_link" /&gt;
+    
+==సముద్రంలో నీటి విడుదల==
+వెర్రా నది మెయినింగెన్‌లోని గేజ్ వద్ద దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;ఈ నది లోని నీరు క్షణముకు సగటు 46.5 ఘనపు మీటర్/సెకండ్ (1,640 ఘనపు అడుగులు/సెకండ్). &lt;ref name="wiki_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+
+
+
+    <page>
+        <title>వర్ధర్</title>
+        <ns>0</ns>
+        <id>200001</id>
+        <revision>
+            <id>200001</id>
+            <timestamp>2022-08-20T07-05-51Z</timestamp>
+            <contributor>
+                <username>Divyareddy</username>
+                <id>19053</id>
+            </contributor>
+            <comment>xmlpage created</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="1057">
+            
+
+
+{{Infobox river
+| name = వర్ధర్
+| image = Vardar_Veles_Macedonia.jpg
+| image_size = 300
+|image_caption =వర్ధర్ నది
+| length=388.0 కి.మీ.
+| source1_location = వ్రుటోక్, గోస్టివర్ సమీపంలో
+| mouth_location = ఏజియన్ సముద్రం, థెస్సలొనీకి సమీపంలో
+}}
+    
+వర్ధర్ నదిని యాక్సియోస్ అని కూడా పిలుస్తారు.వర్ధర్ నది పొడవు 388.0 కిలోమీటర్లు. &lt;ref name="wiki_link"&gt;{{Cite web|url=https://en.wikipedia.org/wiki/Vardar|title=Vardar|work=Wikipedia |language=en |access-date=2022-06-21}}&lt;/ref&gt;
+    
+==భౌగోళిక ప్రదేశం(ప్రాంతం)==
+వర్ధర్ నది అక్షాంశం(లాటిట్యూడ్) 40.5075, రేఖాంశం(లాంగిట్యూడ్) 22.7175.&lt;ref name="dbpedia_link"&gt;{{Cite web|url=http://dbpedia.org/resource/Vardar|title=About: |last=|first=|date=|website=dbpedia.org|url-status=live|archive-url=|archive-date=|access-date=2022-06-24}}&lt;/ref&gt;
+   
+==నది ప్రవాహం==
+వర్ధర్ నది వ్రుటోక్, గోస్టివర్ సమీపంలో దగ్గర మొదలవుతుంది.&lt;ref name="dbpedia_link" /&gt;వర్ధర్ నది ఏజియన్ సముద్రం, థెస్సలొనీకి సమీపంలో దగ్గర సముద్రంలో కలుస్తుంది.&lt;ref name="dbpedia_link" /&gt;
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:నదులు]]
+
+[[వర్గం:తెవికీ నదులు]]
+            </text>
+            <sha1>1iazi7k4os5ruichy4zoev64js99lbb</sha1>
+        </revision>
+    </page>
+    
+
+</mediawiki>
